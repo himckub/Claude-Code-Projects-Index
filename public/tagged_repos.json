@@ -844,9 +844,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "claude-rudder",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Claude Slash Commands",
@@ -1090,9 +1090,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "data-annotation",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Data Visualisation And Publishing",
@@ -2056,9 +2056,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "repo-to-content",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Report Analyst",

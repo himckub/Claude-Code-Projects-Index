@@ -1,5 +1,5 @@
 {
-  "last_built": "2026-04-30T22:58:35",
+  "last_built": "2026-04-30T22:58:52",
   "total_repos": 169,
   "total_tags": 14,
   "repo_manifest": {
@@ -59,7 +59,7 @@
     "Claude Pa": "6ddab16cc7414afe7cb0f38b360415d7",
     "Claude Pipewire Skills": "edaad65981add45a02213fc8fc162383",
     "Claude Rescue": "130c3b9cc6eae691688299df4e453850",
-    "Claude Rudder": "c66946e0fda3fd4ac8439354039b7dab",
+    "Claude Rudder": "58fbe46684cc3c5368b3dc60fc4ce1ea",
     "Claude Slash Commands": "12eb815665f1f7121b965ab386f776eb",
     "Claude Sub-Agent Network": "c388b6e9fdfbf04a5aa6093b3bb9d281",
     "Claude System Recovery Mode": "2dcf73b3ff9937bd3d745f814ecb9604",
@@ -75,7 +75,7 @@
     "Cool Claude Code Stuff": "ef3dc266adb70775e1f0c7739cbfa115",
     "Copyq Scripting": "1b01a6b99355e7331f07f721e87c2a10",
     "Daniel Rosehill": "769d75939155365ed55a5dde22ef4cd5",
-    "Data Annotation": "5a29664b94aed82804d16bf7a5c4830e",
+    "Data Annotation": "bd8e0498e30dbc75e8fb1ebfe9939be9",
     "Data Visualisation And Publishing": "7b8533ed9deedd981196e18288d984b6",
     "Debugging": "5093c7759b499474854a59cc54d4f429",
     "Decision Evaluation Framework": "4b92ef13f512620aab55a9d67077b4c7",
@@ -140,7 +140,7 @@
     "Proxmox Mgmt": "4d7042ee212ed7bc8cc14761dc63362f",
     "Purchasing": "898d7bd379ba68617039bfc1229cf7ca",
     "Repo Mgmt": "6bdfc782797ead9837db87b49879d11d",
-    "Repo To Content": "466980e09d4c7f2c9b708ef0d02c105f",
+    "Repo To Content": "e265a7eea2d111a058d40e2161694769",
     "Report Analyst": "9a8dcbe58d47d4d6c27e2b1b1c97ec2a",
     "Research Space": "7cd1706696c42978aaf54bb08842763e",
     "Resource List Builder": "0f20c0a882407361af74632b1697e60b",
@@ -174,36 +174,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-27T20:43:11",
-      "changes": [
-        {
-          "type": "modified",
-          "repos": [
-            "AI Video Producer",
-            "Adb Ops",
-            "Backup Planner",
-            "Data Visualisation And Publishing",
-            "Digital Printing",
-            "Html Email Designer",
-            "Israel Agent Skills",
-            "Kde Plasmoid Dev",
-            "Llm Council Creator",
-            "Local Web Capture",
-            "Media Assistant Ops",
-            "Open Router Model Research",
-            "Programmatic Doc Generation",
-            "Repo Mgmt",
-            "Repo To Content",
-            "Resume Typesetter",
-            "Teach This Repo",
-            "Test Project Ideator",
-            "Text Corpus Analysis"
-          ]
-        }
-      ],
-      "total_repos": 116
-    },
     {
       "date": "2026-04-27T22:20:41",
       "changes": [
@@ -1173,6 +1143,20 @@
           "type": "modified",
           "repos": [
             "Programmatic Doc Generation"
+          ]
+        }
+      ],
+      "total_repos": 169
+    },
+    {
+      "date": "2026-04-30T22:58:52",
+      "changes": [
+        {
+          "type": "modified",
+          "repos": [
+            "Claude Rudder",
+            "Data Annotation",
+            "Repo To Content"
           ]
         }
       ],
