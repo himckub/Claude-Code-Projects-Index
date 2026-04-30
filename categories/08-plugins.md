@@ -721,6 +721,15 @@ Capture geo-restricted web content (articles, prices) via the user's own localho
 
 ---
 
+## Sop
+
+### Sop Writer
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-SOP-Writer-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Project-scoped authoring tools for Standard Operating Procedures and decision flowcharts. Scaffold from templates, embed Mermaid/D2 diagrams, compile to printable PDFs via Typst, and assemble multi-document binders with TOC and page numbers.
+
+---
+
 ## Staging
 
 ### Loose Tasks

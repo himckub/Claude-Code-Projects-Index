@@ -2033,6 +2033,20 @@
     "created_date": "2026-04-27"
   },
   {
+    "name": "Sop Writer",
+    "url": "https://github.com/danielrosehill/Claude-SOP-Writer-Plugin",
+    "description": "Project-scoped authoring tools for Standard Operating Procedures and decision flowcharts. Scaffold from templates, embed Mermaid/D2 diagrams, compile to printable PDFs via Typst, and assemble multi-document binders with TOC and page numbers.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "sop-writer",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Style Switcher",
     "url": "https://github.com/danielrosehill/Claude-Style-Switcher",
     "description": "Claude Code plugin: persona-recipe library for swapping Claude into themed personalities (Daredevil, Jaded IT, Reluctant, Chatty, Philosophical, Operational, Dubious, Hyper Creative, Approval Needed, Visionary, Claude FM, Claude Bouncer). Each recipe ships a banner image and sound effect, and applies via either a managed block in ~/.claude/CLAUDE.md or a repo-sandbox mode that holds the user CLAUDE.md aside.",
