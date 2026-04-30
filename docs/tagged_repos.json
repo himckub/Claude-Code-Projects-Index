@@ -577,9 +577,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "claude-data-analyst",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Claude Data Wrangler",
@@ -1807,6 +1807,20 @@
     "added_date": "2026-04-30",
     "slug": "new-turn-claude-hook",
     "created_date": "2025-12-31"
+  },
+  {
+    "name": "Nfc Ops",
+    "url": "https://github.com/danielrosehill/Claude-NFC-Ops-Plugin",
+    "description": "NFC tag operations using libnfc \u2014 read, write, inspect, password-protect, and bulk-write from CSV with manual tag-by-tag feed.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "nfc-ops",
+    "created_date": "2026-04-30"
   },
   {
     "name": "No Wheel Inventions",

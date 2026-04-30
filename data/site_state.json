@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:38:33",
-  "total_repos": 162,
+  "last_built": "2026-04-30T22:43:09",
+  "total_repos": 163,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -41,7 +41,7 @@
     "Claude Code Plugin (Meta)": "219f0049ba53a106274563ab1012154c",
     "Claude Code Plugins Marketplace": "94f121e07c9ae2983b89c26cc14274bd",
     "Claude Code Repo Managers ClaudeMD": "346403a3caab654ba4e09421a5ba531b",
-    "Claude Data Analyst": "f917fd4af9ee53aacff2ab169938726d",
+    "Claude Data Analyst": "74dd2b969ecb920b1c95e84881e64bba",
     "Claude Data Wrangler": "4e0d2c6dbb06255538bbc6dcbbabbfa7",
     "Claude Deep Research Model (Notes / Documentation)": "30892717f6d0eb8c0c4a07d0c8c41262",
     "Claude Development Agents": "10342b4ab78db24293e833e3845a37c7",
@@ -124,6 +124,7 @@
     "Nano Tech Diagrams": "871043c43dd20d766119f7c13be34ef5",
     "Network Cups": "db99001e9330e0478bef1f76a0545e98",
     "New Turn Claude Hook": "c690180883039fde36dff26ced17986a",
+    "Nfc Ops": "5544aa35d39ac7d727060b9f01fb74e5",
     "No Wheel Inventions": "7364e3b72c8fc7875b424b752442472e",
     "Non-Code Claude Code": "9dd3fa5b7322b33e82998185c6e28009",
     "Obs Mgmt": "291a8e8da5ff6a10742e760d9b317134",
@@ -167,27 +168,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-25T12:54:27",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Daniel Rosehill",
-            "Resource List Builder",
-            "Text Corpus Analysis"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Claude Data Wrangler",
-            "Claude User Memory"
-          ]
-        }
-      ],
-      "total_repos": 110
-    },
     {
       "date": "2026-04-26T17:48:20",
       "changes": [
@@ -1266,6 +1246,24 @@
         }
       ],
       "total_repos": 162
+    },
+    {
+      "date": "2026-04-30T22:43:09",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Nfc Ops"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Claude Data Analyst"
+          ]
+        }
+      ],
+      "total_repos": 163
     }
   ]
 }

@@ -1122,6 +1122,15 @@ Interface with a Music Assistant server via its local API — onboard a deployme
 
 ---
 
+## Nfc
+
+### Nfc Ops
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-NFC-Ops-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+NFC tag operations using libnfc — read, write, inspect, password-protect, and bulk-write from CSV with manual tag-by-tag feed.
+
+---
+
 ## Nlp
 
 ### Text Corpus Analysis
