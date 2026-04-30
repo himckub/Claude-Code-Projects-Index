@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T16:35:23",
-  "total_repos": 144,
+  "last_built": "2026-04-30T18:33:25",
+  "total_repos": 145,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "855fbda816f42cab8a0cf9efa1c0a9e3",
@@ -82,6 +82,7 @@
     "Digital Printing": "014d0f450aef3bb1b52a24f7931e3f6a",
     "Filesystem Organiser": "28f4bdb5689a436b3584bd8a50d31597",
     "Geopol Sim": "589e6ae39300a3bb2e510a966eb92d0e",
+    "Get Toony": "8b092d550b3461934ca3bf8e65b31cb7",
     "Gist Writer": "c5a9248917a7cc4d3faf869ad5249e45",
     "Github Explorer": "a9530d8b20f5936104bb80d1f750ad5d",
     "Greeninvoice Ops": "43f54468e0caf3feadd51f14a415d201",
@@ -145,58 +146,10 @@
     "The User Voice Types": "3fd3032d366b5076ded4a99d019a09d6",
     "Therapy Tracking": "61c8815eb1bc85baab5a5a2e56159f95",
     "User Claude MD": "8d3ea90d4e333fd456a9224b0444d4f0",
-    "Video Production": "3142a664e24a13d1a16b04f5042164c4",
+    "Video Editing": "b4c3be341f06a05008ee83cfc0c544e5",
     "Workspace Foundational": "30ca58a180891eb3ba019ae4b0cc3b8d"
   },
   "history": [
-    {
-      "date": "2026-04-19T01:31:53",
-      "changes": [
-        {
-          "type": "removed",
-          "repos": [
-            "AI Tools",
-            "Audio Editing",
-            "Brainstorm Solutions",
-            "Conda Manager",
-            "Context Toolkit",
-            "Diary Planner",
-            "Docker Manager",
-            "Ecosystem Mapper",
-            "Filesystem Organisation",
-            "Git & GitHub",
-            "GitHub Research",
-            "Home Assistant Manager",
-            "Home Budget Helper",
-            "Ideation",
-            "Image Editing",
-            "Israeli Tech Shopping",
-            "LAN Manager",
-            "Learning",
-            "Linux Desktop Management",
-            "Linux Server Management",
-            "Model Identifier",
-            "Open Router Model Research",
-            "Proxmox Manager",
-            "Redaction",
-            "SEO",
-            "Spec Starter",
-            "Stack Search",
-            "Synology Manager",
-            "Tech Research",
-            "Video Editing",
-            "Writing Editing"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "New Repo From Template"
-          ]
-        }
-      ],
-      "total_repos": 80
-    },
     {
       "date": "2026-04-19T16:48:03",
       "changes": [
@@ -1252,6 +1205,25 @@
         }
       ],
       "total_repos": 144
+    },
+    {
+      "date": "2026-04-30T18:33:25",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Get Toony",
+            "Video Editing"
+          ]
+        },
+        {
+          "type": "removed",
+          "repos": [
+            "Video Production"
+          ]
+        }
+      ],
+      "total_repos": 145
     }
   ]
 }

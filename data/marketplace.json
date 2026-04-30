@@ -174,13 +174,13 @@
       ]
     },
     {
-      "name": "video-production",
+      "name": "video-editing",
       "source": {
         "source": "github",
-        "repo": "danielrosehill/Claude-Video-Production-Plugin"
+        "repo": "danielrosehill/Claude-Video-Editor-Plugin"
       },
-      "description": "Claude Code plugin: video production workflow \u2014 transcode, organise, dedupe, ComfyUI generation, cover art, with editing/generative/cover-art variants.",
-      "version": "1.0.0",
+      "description": "Claude Code plugin for video editing, transcoding, video processing, and multimedia workflow automation. Two-tier workspace (index + project), per-user data store, and a growing set of ffmpeg/MLT/Kdenlive primitives.",
+      "version": "1.6.0",
       "author": {
         "name": "Daniel Rosehill",
         "email": "public@danielrosehill.com",
@@ -190,7 +190,7 @@
       "tags": [
         "video",
         "media",
-        "generative"
+        "editing"
       ]
     },
     {
@@ -1884,6 +1884,29 @@
         "recording",
         "linux",
         "mcp"
+      ]
+    },
+    {
+      "name": "get-toony",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Get-Toony-Plugin"
+      },
+      "description": "Convert JSON, CSV, YAML, and other structured data into TOON (Token-Oriented Object Notation) \u2014 a compact, lossless re-encoding that uses ~40% fewer tokens than JSON when fed to LLMs. Wraps @toon-format/toon and tracks the wider ecosystem (Python, Java, .NET, PHP, Rust ports).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "toon",
+        "token-optimization",
+        "llm",
+        "json",
+        "csv",
+        "data-format"
       ]
     }
   ]

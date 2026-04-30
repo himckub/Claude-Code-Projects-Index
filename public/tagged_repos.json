@@ -1183,6 +1183,20 @@
     "created_date": "2026-04-28"
   },
   {
+    "name": "Get Toony",
+    "url": "https://github.com/danielrosehill/Claude-Get-Toony-Plugin",
+    "description": "Convert JSON, CSV, YAML, and other structured data into TOON (Token-Oriented Object Notation) \u2014 a compact, lossless re-encoding that uses ~40% fewer tokens than JSON when fed to LLMs. Wraps @toon-format/toon and tracks the wider ecosystem (Python, Java, .NET, PHP, Rust ports).",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "get-toony",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Gist Writer",
     "url": "https://github.com/danielrosehill/Claude-Gist-Writer-Plugin",
     "description": "Publish content to GitHub gists with clear AI authorship \u2014 Claude-authored solution gists and collaborative debug write-ups, both with model+date attribution, environment context, and a PII pre-flight scrub for public publishes. Visibility is a per-call parameter with a configurable default.",
@@ -2123,19 +2137,20 @@
     "created_date": "2026-04-21"
   },
   {
-    "name": "Video Production",
-    "url": "https://github.com/danielrosehill/Claude-Video-Production-Plugin",
-    "description": "Claude Code plugin: video production workflow \u2014 transcode, organise, dedupe, ComfyUI generation, cover art, with editing/generative/cover-art variants.",
+    "name": "Video Editing",
+    "url": "https://github.com/danielrosehill/Claude-Video-Editor-Plugin",
+    "description": "Claude Code plugin for video editing, transcoding, video processing, and multimedia workflow automation. Two-tier workspace (index + project), per-user data store, and a growing set of ffmpeg/MLT/Kdenlive primitives.",
     "tags": [
+      "Agent Workspace",
       "Automation",
       "Plugin"
     ],
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-19",
-    "slug": "video-production",
-    "created_date": "2026-04-19"
+    "added_date": "2026-04-30",
+    "slug": "video-editing",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Workspace Foundational",
