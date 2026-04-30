@@ -434,6 +434,15 @@ Apply 20+ classical decision-making frameworks (cost-benefit, pre-mortem, MCDA, 
 
 ---
 
+## Diagrams
+
+### Nano Tech Diagrams
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Nano-Tech-Diagrams-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Generate, transform, and clean up tech diagrams and whiteboard photos via the Nano Banana 2 model (Fal AI). Wraps the nano-tech-diagrams MCP server with a curated prompt library across 5 diagram families and 28+ visual styles.
+
+---
+
 ## Docs
 
 ### Repo To Content

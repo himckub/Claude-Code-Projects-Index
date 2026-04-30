@@ -1764,6 +1764,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Nano Tech Diagrams",
+    "url": "https://github.com/danielrosehill/Nano-Tech-Diagrams-Plugin",
+    "description": "Generate, transform, and clean up tech diagrams and whiteboard photos via the Nano Banana 2 model (Fal AI). Wraps the nano-tech-diagrams MCP server with a curated prompt library across 5 diagram families and 28+ visual styles.",
+    "tags": [
+      "MCP",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "nano-tech-diagrams",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Network Cups",
     "url": "https://github.com/danielrosehill/Claude-Network-CUPS-Plugin",
     "description": "Discover, diagnose, and print to networked CUPS printers from Claude Code. Wraps the lan-mcp-cups MCP server and adds LAN discovery (avahi/Bonjour, arp-scan) plus ufw firewall sanity checks.",
