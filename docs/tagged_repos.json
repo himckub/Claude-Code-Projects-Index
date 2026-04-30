@@ -1240,9 +1240,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "digital-printing",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Donetick",
@@ -1357,6 +1357,20 @@
     "category_group": "Technical",
     "added_date": "2026-04-30",
     "slug": "github-explorer",
+    "created_date": "2026-04-30"
+  },
+  {
+    "name": "Gpg Ops",
+    "url": "https://github.com/danielrosehill/Claude-GPG-Ops-Plugin",
+    "description": "GPG operations: generate keypairs, export public keys, encrypt, decrypt, sign, and verify files or text using the local GnuPG keyring.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "gpg-ops",
     "created_date": "2026-04-30"
   },
   {
@@ -2047,6 +2061,20 @@
     "created_date": "2026-04-27"
   },
   {
+    "name": "Report Analyst",
+    "url": "https://github.com/danielrosehill/Claude-Report-Analyst-Plugin",
+    "description": "Skeptical analyst toolkit for long reports \u2014 READ/SKIM/SKIP verdicts, structured extraction (arguments, findings, stats, case studies, key snippets), and an opinionated executive summary. Built-in Jaded Report Reader persona that refuses credit for filler.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "report-analyst",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Research Space",
     "url": "https://github.com/danielrosehill/Claude-Research-Space-Plugin",
     "description": "Claude Code plugin: research workflow \u2014 source log, summarize, deep-dive, export, with deep-research/technical/osint/georeaction/stack/ecosystem/competitor variants. Includes a 30-agent tech research team for hardware/software stack evaluations (folded in from Claude-Tech-Research-Team).",
@@ -2325,6 +2353,21 @@
     "category_group": "Technical",
     "added_date": "2026-04-30",
     "slug": "task-queuer",
+    "created_date": "2026-04-30"
+  },
+  {
+    "name": "Taxonomy Creation",
+    "url": "https://github.com/danielrosehill/Claude-Taxonomy-Creation-Plugin",
+    "description": "Generate taxonomy and lookup tables (countries, currencies, languages, US states, timezones, custom domain taxonomies) and load them into Postgres, SQLite, MySQL, or export to CSV/JSON/SQL seed files. For data engineers, CMS builders, and eval pipeline authors.",
+    "tags": [
+      "Automation",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "taxonomy-creation",
     "created_date": "2026-04-30"
   },
   {

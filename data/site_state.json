@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:54:54",
-  "total_repos": 166,
+  "last_built": "2026-04-30T22:58:21",
+  "total_repos": 169,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -85,7 +85,7 @@
     "Dev Debugger": "c0d112eda962f335103eaa6366ed9d8e",
     "Dev Tools": "be97653fa2a595e6b8f36d3a9dea2e36",
     "Digital Evidence": "4747a8d9a0d7fc6f19b1b7dabcfdf63e",
-    "Digital Printing": "014d0f450aef3bb1b52a24f7931e3f6a",
+    "Digital Printing": "3987fffbbeb7e1613278c71178eca7a5",
     "Donetick": "489793991e15b2af8d8182c2a1b5a62e",
     "Favorite Plugins Installers": "37d8b975768462a89afc0f122599194e",
     "Filesystem Organiser": "072d2a1c562a66305c4973afb57bad4d",
@@ -94,6 +94,7 @@
     "Gimp": "7e2f71fc58de6454ff24357c4f693a0b",
     "Gist Writer": "c5a9248917a7cc4d3faf869ad5249e45",
     "Github Explorer": "aeea7bc5beedce6028567846c036fc10",
+    "Gpg Ops": "6de7fedde850480ce5555fc272982baa",
     "Greeninvoice Ops": "86611bc82ea80fa6637fca62777774d5",
     "Hardware Spec Assembly": "18dcb164d10467ee10139e2801725772",
     "Home Assistant Mgmt": "f140da001f7a437204a939278148b944",
@@ -140,6 +141,7 @@
     "Purchasing": "898d7bd379ba68617039bfc1229cf7ca",
     "Repo Mgmt": "6bdfc782797ead9837db87b49879d11d",
     "Repo To Content": "466980e09d4c7f2c9b708ef0d02c105f",
+    "Report Analyst": "9a8dcbe58d47d4d6c27e2b1b1c97ec2a",
     "Research Space": "7cd1706696c42978aaf54bb08842763e",
     "Resource List Builder": "0f20c0a882407361af74632b1697e60b",
     "Resume Typesetter": "720658a9ff70266b4540b488dbff435f",
@@ -159,6 +161,7 @@
     "Sysadmin Homelab": "4fa213d556db47f2c5df1d6a6ed2a97b",
     "System Recovery Mode": "777a4f08f1ee1b861e642fbd50c471c4",
     "Task Queuer": "de35a5c6ed9da41b749327f378f59a4e",
+    "Taxonomy Creation": "e057e1a0d53bc9ee8ecb3404080856ea",
     "Teach This Repo": "995273d645cf41e984db50b5985c3b9f",
     "Technical Docs": "4daf29787e0e59b4aec62adca7237146",
     "Test Project Ideator": "bfae4e18f383867f28d8fb283f4625de",
@@ -171,18 +174,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-27T17:21:04",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Programmatic Doc Generation"
-          ]
-        }
-      ],
-      "total_repos": 114
-    },
     {
       "date": "2026-04-27T20:35:38",
       "changes": [
@@ -1176,6 +1167,26 @@
         }
       ],
       "total_repos": 166
+    },
+    {
+      "date": "2026-04-30T22:58:21",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Gpg Ops",
+            "Report Analyst",
+            "Taxonomy Creation"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Digital Printing"
+          ]
+        }
+      ],
+      "total_repos": 169
     }
   ]
 }
