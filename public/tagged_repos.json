@@ -1227,6 +1227,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Gimp",
+    "url": "https://github.com/danielrosehill/Claude-GIMP-Plugin",
+    "description": "Bare-bones GIMP CLI wrapper for Linux: detect install (native/Flatpak/Snap/AppImage), persist a per-user profile, run Script-Fu batch ops, export images, install/list GIMP-side plugins.",
+    "tags": [
+      "Plugin",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "gimp",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Gist Writer",
     "url": "https://github.com/danielrosehill/Claude-Gist-Writer-Plugin",
     "description": "Publish content to GitHub gists with clear AI authorship \u2014 Claude-authored solution gists and collaborative debug write-ups, both with model+date attribution, environment context, and a PII pre-flight scrub for public publishes. Visibility is a per-call parameter with a configurable default.",
@@ -2072,9 +2087,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "task-queuer",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Teach This Repo",

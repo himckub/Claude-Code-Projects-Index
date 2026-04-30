@@ -897,6 +897,15 @@ Thin orchestrator for geopolitical forecasting simulations. Scaffolds, runs, bun
 
 ---
 
+## Gimp
+
+### Gimp
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-GIMP-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Bare-bones GIMP CLI wrapper for Linux: detect install (native/Flatpak/Snap/AppImage), persist a per-user profile, run Script-Fu batch ops, export images, install/list GIMP-side plugins.
+
+---
+
 ## Github
 
 ### Gist Writer
