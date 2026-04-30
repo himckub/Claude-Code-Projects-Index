@@ -1796,6 +1796,72 @@
         "linux",
         "easyeffects"
       ]
+    },
+    {
+      "name": "claude-md-tester",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-MD-Tester"
+      },
+      "description": "Safely swap ~/.claude/CLAUDE.md for test/joke configs via symlink. Terminal-only restore that does not depend on the Claude harness, so a hostile test config can never trap you.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "claude-md",
+        "testing",
+        "config",
+        "symlink"
+      ]
+    },
+    {
+      "name": "style-switcher",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Style-Switcher"
+      },
+      "description": "Claude Code plugin: persona-recipe library for swapping Claude into themed personalities (Daredevil, Jaded IT, Reluctant, Chatty, Philosophical, Operational, Dubious, Hyper Creative, Approval Needed, Visionary, Claude FM, Claude Bouncer). Each recipe ships a banner image and sound effect, and applies via either a managed block in ~/.claude/CLAUDE.md or a repo-sandbox mode that holds the user CLAUDE.md aside.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "claude-code",
+        "style",
+        "persona",
+        "tone",
+        "fun"
+      ]
+    },
+    {
+      "name": "hardware-spec-assembly",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Hardware-Spec-Assembly-Plugin"
+      },
+      "description": "Define hardware project BOMs with ESP32-first focus \u2014 onboarding captures location/vendors/on-hand gear, then skills for spec creation, budgeting, sourcing, compatibility checks, wiring specs, assembly instructions, 3D-printable suggestions, and AI-generated mockups via fal.ai nano-banana.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "hardware",
+        "bom",
+        "esp32",
+        "electronics",
+        "maker",
+        "iot"
+      ]
     }
   ]
 }

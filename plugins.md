@@ -327,7 +327,21 @@ Claude-Rudder — collection of utilities to smoothen Claude Code UX. Context-ga
 
 ---
 
+### Style Switcher
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Style-Switcher) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Claude Code plugin: persona-recipe library for swapping Claude into themed personalities (Daredevil, Jaded IT, Reluctant, Chatty, Philosophical, Operational, Dubious, Hyper Creative, Approval Needed, Visionary, Claude FM, Claude Bouncer). Each recipe ships a banner image and sound effect, and applies via either a managed block in ~/.claude/CLAUDE.md or a repo-sandbox mode that holds the user CLAUDE.md aside.
+
+---
+
 ## Claude MD
+
+### Claude MD Tester
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-MD-Tester) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Safely swap ~/.claude/CLAUDE.md for test/joke configs via symlink. Terminal-only restore that does not depend on the Claude harness, so a hostile test config can never trap you.
+
+---
 
 ### User Claude MD
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/User-Claude-MD-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
@@ -455,6 +469,15 @@ Repository management toolkit: organise and dedupe local repos, retrofit codebas
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Green-Invoice-Ops-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
 Operational commands and a skill for working with the Green Invoice MCP server — invoices, clients, expenses, and monthly summaries.
+
+---
+
+## Hardware
+
+### Hardware Spec Assembly
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Hardware-Spec-Assembly-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Define hardware project BOMs with ESP32-first focus — onboarding captures location/vendors/on-hand gear, then skills for spec creation, budgeting, sourcing, compatibility checks, wiring specs, assembly instructions, 3D-printable suggestions, and AI-generated mockups via fal.ai nano-banana.
 
 ---
 
