@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T19:00:19",
-  "total_repos": 150,
+  "last_built": "2026-04-30T20:13:33",
+  "total_repos": 151,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "855fbda816f42cab8a0cf9efa1c0a9e3",
@@ -15,6 +15,7 @@
     "Backup Planner": "6d71b5559a4988abc7d0ef406089c001",
     "Bash Alias Manager Claude": "93f1d3bbcaa62f206a7ae6eb79860f30",
     "Batch ClaudeMD Repo Creator": "e26993651ce928b3bb52d969cd2ae18c",
+    "Batch Optical Archivist": "afeb5823a739c0cae1d55709cbf62a49",
     "Browser Data Capture": "bd7083920f101b9f308f5d04399ce8a1",
     "Budgeting": "db16a75f45fd2aeb15c0db19427cb38d",
     "Business Idea Eval": "f4b53e0bfca42c28d3362909339dd11b",
@@ -87,7 +88,7 @@
     "Get Toony": "8b092d550b3461934ca3bf8e65b31cb7",
     "Gimp": "7e2f71fc58de6454ff24357c4f693a0b",
     "Gist Writer": "c5a9248917a7cc4d3faf869ad5249e45",
-    "Github Explorer": "a9530d8b20f5936104bb80d1f750ad5d",
+    "Github Explorer": "aeea7bc5beedce6028567846c036fc10",
     "Greeninvoice Ops": "43f54468e0caf3feadd51f14a415d201",
     "Hardware Spec Assembly": "18dcb164d10467ee10139e2801725772",
     "Home Assistant Mgmt": "f140da001f7a437204a939278148b944",
@@ -155,18 +156,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-20T17:33:15",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Backup Planner"
-          ]
-        }
-      ],
-      "total_repos": 93
-    },
     {
       "date": "2026-04-20T17:42:12",
       "changes": [
@@ -1199,6 +1188,24 @@
         }
       ],
       "total_repos": 150
+    },
+    {
+      "date": "2026-04-30T20:13:33",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Batch Optical Archivist"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Github Explorer"
+          ]
+        }
+      ],
+      "total_repos": 151
     }
   ]
 }

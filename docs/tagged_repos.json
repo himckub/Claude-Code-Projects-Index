@@ -180,6 +180,20 @@
     "created_date": "2025-10-26"
   },
   {
+    "name": "Batch Optical Archivist",
+    "url": "https://github.com/danielrosehill/Claude-Batch-Optical-Archivist-Plugin",
+    "description": "Plan and burn batch M-Disc / BD-R / DVD archives from a source directory on Ubuntu, with copy multipliers for offsite duplicates. Wraps growisofs, xorriso, and dvd+rw-mediainfo; optional K3B handoff for manual fallback.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "batch-optical-archivist",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Browser Data Capture",
     "url": "https://github.com/danielrosehill/Claude-Browser-Data-Capture-Plugin",
     "description": "Streamline programmatic data ingestion against sites and apps that don't ship a documented API \u2014 capture network traffic (HAR, mitmproxy, or live tab via claude-in-chrome), map endpoints, infer schemas, and produce a draft OpenAPI spec you can build a stable client against. Ships skills for per-domain map documents, version-controlled storage in a private GitHub repo, and good-faith vulnerability disclosure if a finding turns up incidentally. White-hat use only.",
@@ -1265,9 +1279,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "github-explorer",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Greeninvoice Ops",

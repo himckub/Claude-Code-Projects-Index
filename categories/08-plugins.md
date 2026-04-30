@@ -658,6 +658,15 @@ Manage an OPNsense router/firewall via SSH and the OPNsense API — guided first
 
 ---
 
+## Optical
+
+### Batch Optical Archivist
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Batch-Optical-Archivist-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Plan and burn batch M-Disc / BD-R / DVD archives from a source directory on Ubuntu, with copy multipliers for offsite duplicates. Wraps growisofs, xorriso, and dvd+rw-mediainfo; optional K3B handoff for manual fallback.
+
+---
+
 ## Pdf
 
 ### Digital Printing
