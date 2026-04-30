@@ -1915,7 +1915,7 @@
   {
     "name": "Research Space",
     "url": "https://github.com/danielrosehill/Claude-Research-Space-Plugin",
-    "description": "Claude Code plugin: research workflow \u2014 source log, summarize, deep-dive, export, with deep-research/technical/osint/georeaction/stack/ecosystem/competitor variants.",
+    "description": "Claude Code plugin: research workflow \u2014 source log, summarize, deep-dive, export, with deep-research/technical/osint/georeaction/stack/ecosystem/competitor variants. Includes a 30-agent tech research team for hardware/software stack evaluations (folded in from Claude-Tech-Research-Team).",
     "tags": [
       "Agent Workspace",
       "Automation",
@@ -1953,9 +1953,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-21",
+    "added_date": "2026-04-30",
     "slug": "resume-typesetter",
-    "created_date": "2026-04-21"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Schedule Manager",
@@ -2089,6 +2089,22 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Spec Starter",
+    "url": "https://github.com/danielrosehill/spec-starter-plugin",
+    "description": "Spec-driven development workflow for Claude Code: turn unstructured project briefs (especially voice transcripts) into a versioned spec, modular context, and a CLAUDE.md scaffolded into your current repo.",
+    "tags": [
+      "Automation",
+      "Documentation",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "spec-starter",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Style Switcher",
     "url": "https://github.com/danielrosehill/Claude-Style-Switcher",
     "description": "Claude Code plugin: persona-recipe library for swapping Claude into themed personalities (Daredevil, Jaded IT, Reluctant, Chatty, Philosophical, Operational, Dubious, Hyper Creative, Approval Needed, Visionary, Claude FM, Claude Bouncer). Each recipe ships a banner image and sound effect, and applies via either a managed block in ~/.claude/CLAUDE.md or a repo-sandbox mode that holds the user CLAUDE.md aside.",
@@ -2132,6 +2148,22 @@
     "added_date": "2026-04-30",
     "slug": "sysadmin-homelab",
     "created_date": "2026-04-30"
+  },
+  {
+    "name": "System Recovery Mode",
+    "url": "https://github.com/danielrosehill/Claude-System-Recovery-Mode",
+    "description": "Claude Code plugin: AI-assisted Linux system recovery \u2014 slash commands and agents (diagnose, logs, network, disk, services, packages) for diagnosing and fixing a broken system. Pairs with an optional GRUB/systemd installer that boots a minimal recovery TTY straight into Claude CLI.",
+    "tags": [
+      "Plugin",
+      "Slash Commands",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "system-recovery-mode",
+    "created_date": "2025-12-27"
   },
   {
     "name": "Task Queuer",
