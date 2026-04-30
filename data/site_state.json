@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:01:33",
-  "total_repos": 155,
+  "last_built": "2026-04-30T22:09:29",
+  "total_repos": 157,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -79,6 +79,7 @@
     "Declaude": "2e705c1a2c9fb4d5e9da445cd902adad",
     "Declutter Genie": "77ffe2a78edf5647183771fa3968ea35",
     "Desktop Manager": "4d2e2659664f3e551f7ba8ef11047208",
+    "Dev Debugger": "c0d112eda962f335103eaa6366ed9d8e",
     "Dev Tools": "be97653fa2a595e6b8f36d3a9dea2e36",
     "Digital Printing": "014d0f450aef3bb1b52a24f7931e3f6a",
     "Favorite Plugins Installers": "37d8b975768462a89afc0f122599194e",
@@ -155,28 +156,12 @@
     "Text Corpus Analysis": "051ff9156af718ff612ccae39dda9124",
     "The User Voice Types": "3fd3032d366b5076ded4a99d019a09d6",
     "Therapy Tracking": "61c8815eb1bc85baab5a5a2e56159f95",
-    "User Claude MD": "8d3ea90d4e333fd456a9224b0444d4f0",
+    "User Claude MD": "223177b756c5e6847c1b0b2d31790b48",
     "Video Editing": "b4c3be341f06a05008ee83cfc0c544e5",
+    "Visual Communications": "5e8bf2a90646fd82a56a006a1c098eee",
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-23T17:17:43",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Claude Data Wrangler",
-            "Image Production",
-            "Israel Agent Skills",
-            "Llm Council Creator",
-            "Local Web Capture",
-            "Media Assistant Ops"
-          ]
-        }
-      ],
-      "total_repos": 105
-    },
     {
       "date": "2026-04-23T17:20:23",
       "changes": [
@@ -1226,6 +1211,25 @@
         }
       ],
       "total_repos": 155
+    },
+    {
+      "date": "2026-04-30T22:09:29",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Dev Debugger",
+            "Visual Communications"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "User Claude MD"
+          ]
+        }
+      ],
+      "total_repos": 157
     }
   ]
 }
