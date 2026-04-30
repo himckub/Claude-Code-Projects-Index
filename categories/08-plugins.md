@@ -434,6 +434,15 @@ Convert GitHub repos into polished content (PDF, white paper, internal doc, publ
 
 ---
 
+## Donetick
+
+### Donetick
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Donetick-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Companion plugin for the donetick-mcp server. Bundles the MCP and adds skills for chore management against a self-hosted Donetick instance — daily brief, list/create/complete chores, label management.
+
+---
+
 ## Education
 
 ### Teach This Repo
@@ -498,7 +507,7 @@ Semantic GitHub repo discovery for reusable components. Search, rank, overview, 
 ### Repo Mgmt
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Repo-Mgmt-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
-Repository management toolkit: organise and dedupe local repos, retrofit codebases with AI agent primitives, janitor-style cleanup, convert to Claude plugins, spin off breakaway or parallel-private repos; scan for dead remotes, missing clones, visibility risks, stale archive candidates, and PII leaks (gitleaks + Presidio with personal-inventory matching); bulk git ops across folders of clones. Includes a preferences layer that remembers where different repo types live on disk.
+Repository management toolkit: organise and dedupe local repos, retrofit codebases with AI agent primitives, janitor-style cleanup, convert to Claude plugins, spin off breakaway or parallel-private repos; scan for dead remotes, missing clones, visibility risks, stale archive candidates, and PII leaks (gitleaks + Presidio with personal-inventory matching); bulk git ops across folders of clones plus an interactive PyQt6 prune GUI. Includes a preferences layer that remembers where different repo types live on disk.
 
 ---
 

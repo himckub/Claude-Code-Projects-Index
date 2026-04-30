@@ -1214,6 +1214,21 @@
     "created_date": "2026-04-27"
   },
   {
+    "name": "Donetick",
+    "url": "https://github.com/danielrosehill/Claude-Donetick-Plugin",
+    "description": "Companion plugin for the donetick-mcp server. Bundles the MCP and adds skills for chore management against a self-hosted Donetick instance \u2014 daily brief, list/create/complete chores, label management.",
+    "tags": [
+      "MCP",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "donetick",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Favorite Plugins Installers",
     "url": "https://github.com/danielrosehill/Claude-Favorite-Plugins-Installers-Plugin",
     "description": "Curated batches of third-party Claude Code plugins, grouped by type/theme, installable in one command.",
@@ -1930,10 +1945,11 @@
   {
     "name": "Repo Mgmt",
     "url": "https://github.com/danielrosehill/Claude-Repo-Mgmt-Plugin",
-    "description": "Repository management toolkit: organise and dedupe local repos, retrofit codebases with AI agent primitives, janitor-style cleanup, convert to Claude plugins, spin off breakaway or parallel-private repos; scan for dead remotes, missing clones, visibility risks, stale archive candidates, and PII leaks (gitleaks + Presidio with personal-inventory matching); bulk git ops across folders of clones. Includes a preferences layer that remembers where different repo types live on disk.",
+    "description": "Repository management toolkit: organise and dedupe local repos, retrofit codebases with AI agent primitives, janitor-style cleanup, convert to Claude plugins, spin off breakaway or parallel-private repos; scan for dead remotes, missing clones, visibility risks, stale archive candidates, and PII leaks (gitleaks + Presidio with personal-inventory matching); bulk git ops across folders of clones plus an interactive PyQt6 prune GUI. Includes a preferences layer that remembers where different repo types live on disk.",
     "tags": [
       "Documentation",
-      "Plugin"
+      "Plugin",
+      "Tool"
     ],
     "category": "Plugins",
     "category_slug": "plugins",
