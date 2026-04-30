@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T23:11:35",
-  "total_repos": 173,
+  "last_built": "2026-04-30T23:31:18",
+  "total_repos": 174,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -108,7 +108,7 @@
     "Image Production": "e4c351a1b67040e8f8e8c64c7ec6c9d9",
     "Israel Agent Skills": "d254030fced0950f9cf0e48552efa3dd",
     "Israel Shopping": "322d26a1646493d9577e11bd22286da5",
-    "Jewish Texts Reference": "a77b35c5be6b4073d067055660c66e72",
+    "Jewish Texts Reference": "df9ea87501a229bbad62288cf769b7e4",
     "Jewish Utilities": "27378f97a5a4123851b15dde88976153",
     "Kde Plasma": "26e1381701d7284bf4bd447131c8345c",
     "Kde Plasmoid Dev": "92fafe5084a56b456ec45f695790ff5c",
@@ -158,6 +158,7 @@
     "Snap It": "1c614d28978413e7daad5312b1fd8fec",
     "Social Feedback": "da0db47c6d21821231bb6a63cae9a729",
     "Sop Writer": "5e51471ac1c5f43bb6c36883fad54e1c",
+    "Spamhole": "64be6c1d1059e52b2aa5bd0623e57bb2",
     "Spec Starter": "51e8c47b97026bf16aa9c730fdcdd088",
     "Style Switcher": "3fa763b932fda3e0cd27efb4a013169b",
     "Synology Mgmt": "315c5a6eef9d8188c5690faa832e9cdc",
@@ -178,18 +179,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-28T14:01:29",
-      "changes": [
-        {
-          "type": "modified",
-          "repos": [
-            "Jewish Texts Reference"
-          ]
-        }
-      ],
-      "total_repos": 125
-    },
     {
       "date": "2026-04-28T14:38:20",
       "changes": [
@@ -1131,6 +1120,24 @@
         }
       ],
       "total_repos": 173
+    },
+    {
+      "date": "2026-04-30T23:31:18",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Spamhole"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Jewish Texts Reference"
+          ]
+        }
+      ],
+      "total_repos": 174
     }
   ]
 }

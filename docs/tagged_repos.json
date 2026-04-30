@@ -1580,9 +1580,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "jewish-texts-reference",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Jewish Utilities",
@@ -2305,6 +2305,20 @@
     "category_group": "Technical",
     "added_date": "2026-04-30",
     "slug": "sop-writer",
+    "created_date": "2026-04-30"
+  },
+  {
+    "name": "Spamhole",
+    "url": "https://github.com/danielrosehill/Claude-SpamHole-Plugin",
+    "description": "Claude Code plugin: AI-assisted defenses against pseudo-personalised wide-scrape outreach, AI-faked impersonation, and tracking-pixel surveillance. Capture spam to a personal corpus, analyse intent, suggest filter patterns, scan for tracking + ad-tracker pixels, draft unsubscribe replies, push server-side Gmail blocks via an email MCP, push DNS-level blocks to AdGuard Home, and contribute redacted findings to public anti-tracking lists. Bundles a stub AdGuard Home MCP.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "spamhole",
     "created_date": "2026-04-30"
   },
   {
