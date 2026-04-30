@@ -2526,6 +2526,27 @@
         "sysadmin",
         "filesystem"
       ]
+    },
+    {
+      "name": "license-populator",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-License-Populator-Plugin"
+      },
+      "description": "Recommend, generate, and populate software/content licenses. Reads from a user-managed template store and advises on optimal license choice given desired freedoms and constraints.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "licensing",
+        "legal",
+        "open-source",
+        "repo-scaffolding"
+      ]
     }
   ]
 }

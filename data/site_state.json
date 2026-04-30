@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T23:02:03",
-  "total_repos": 171,
+  "last_built": "2026-04-30T23:04:17",
+  "total_repos": 172,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -114,9 +114,10 @@
     "Keyboard Scanner": "6930b0c4f0e5c7cdafda34ef4115a97d",
     "Knowledge Documentation": "1c155e65ee3201772d8dfdcf353a3d81",
     "Legal Investigative": "0a6b8976830f746ad4e9d4ed9ad6023c",
+    "License Populator": "fcf20414f2c6e6a22d4f0ca60aa0915b",
     "Linux Debugging": "fe7fb8761458afdf87aca4facf8f6b3b",
     "Linux Desktop ClaudeMD Seeder": "5f86ec833ff9b66ab8f2f1696a219ef0",
-    "Linux Packaging": "5e09c8d0a8ad3f2e8266e5ac700f5792",
+    "Linux Packaging": "7569f5cb1fb2762c8a218e0e1a850ff4",
     "Llm Council Creator": "efb0eb4210e3e1e2d6b8307880d5194a",
     "Local Claude Plugin Install Research": "cf14d14f6f7d273d50b64c8b62348c94",
     "Local Web Capture": "b433e32c9174113955df23d94c91f68f",
@@ -176,69 +177,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-28T13:47:37",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Claude Code Feedback",
-            "Geopol Sim",
-            "Home Assistant Mgmt",
-            "Opnsense Mgmt",
-            "Proxmox Mgmt",
-            "Synology Mgmt"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "AI-Human Attribution Adder",
-            "Agent Junction",
-            "Bash Alias Manager Claude",
-            "Batch ClaudeMD Repo Creator",
-            "CONTEXT.md",
-            "Claude Agent Picker Pattern",
-            "Claude App Optimiser",
-            "Claude Bug Catcher",
-            "Claude Change My View",
-            "Claude Code Bash Aliases",
-            "Claude Code Context Feature Requests",
-            "Claude Code Context Toolkit",
-            "Claude Code Linux Desktop Slash Commands",
-            "Claude Code Linux Notes",
-            "Claude Code MCP Command Generator",
-            "Claude Code MCP List",
-            "Claude Code Repo Managers ClaudeMD",
-            "Claude Deep Research Model (Notes / Documentation)",
-            "Claude Development Agents",
-            "Claude Dork",
-            "Claude File Organiser Super Slash",
-            "Claude Interview",
-            "Claude Is Awesome",
-            "Claude Local AI Agent Research",
-            "Claude Model Identifier",
-            "Claude Rescue",
-            "Claude Slash Commands",
-            "Claude Sub-Agent Network",
-            "Claude System Recovery Mode",
-            "Claude Task Manager",
-            "Claude Website Update Sender",
-            "Claude Workspace Setup Helper",
-            "Cool Claude Code Stuff",
-            "Declaude",
-            "Linux Desktop ClaudeMD Seeder",
-            "MCPM Claude Code Docs",
-            "New Turn Claude Hook",
-            "No Wheel Inventions",
-            "Non-Code Claude Code",
-            "Private And Public Claude MD",
-            "Smithery Claude Code MCP Jumpstarter"
-          ]
-        }
-      ],
-      "total_repos": 124
-    },
     {
       "date": "2026-04-28T13:49:33",
       "changes": [
@@ -1163,6 +1101,24 @@
         }
       ],
       "total_repos": 171
+    },
+    {
+      "date": "2026-04-30T23:04:17",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "License Populator"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Linux Packaging"
+          ]
+        }
+      ],
+      "total_repos": 172
     }
   ]
 }

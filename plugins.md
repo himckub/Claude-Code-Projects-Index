@@ -674,6 +674,15 @@ Generates specifications for practice/dummy development projects tailored to the
 
 ---
 
+## Licensing
+
+### License Populator
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-License-Populator-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Recommend, generate, and populate software/content licenses. Reads from a user-managed template store and advises on optimal license choice given desired freedoms and constraints.
+
+---
+
 ## Linux
 
 ### Keyboard Scanner
