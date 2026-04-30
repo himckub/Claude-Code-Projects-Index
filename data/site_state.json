@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:51:10",
-  "total_repos": 165,
+  "last_built": "2026-04-30T22:54:54",
+  "total_repos": 166,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -108,7 +108,7 @@
     "Jewish Texts Reference": "a77b35c5be6b4073d067055660c66e72",
     "Jewish Utilities": "27378f97a5a4123851b15dde88976153",
     "Kde Plasma": "26e1381701d7284bf4bd447131c8345c",
-    "Kde Plasmoid Dev": "889a56701582aa93f4e588a09c205e67",
+    "Kde Plasmoid Dev": "92fafe5084a56b456ec45f695790ff5c",
     "Keyboard Scanner": "6930b0c4f0e5c7cdafda34ef4115a97d",
     "Knowledge Documentation": "1c155e65ee3201772d8dfdcf353a3d81",
     "Legal Investigative": "0a6b8976830f746ad4e9d4ed9ad6023c",
@@ -128,6 +128,7 @@
     "Nfc Ops": "5544aa35d39ac7d727060b9f01fb74e5",
     "No Wheel Inventions": "7364e3b72c8fc7875b424b752442472e",
     "Non-Code Claude Code": "9dd3fa5b7322b33e82998185c6e28009",
+    "Novelty Text Editor": "3fb14bc82bd53d49087d05849e53d5fa",
     "Obs Mgmt": "291a8e8da5ff6a10742e760d9b317134",
     "Opnsense Mgmt": "0179b329bed4bc81ae31cd621571226d",
     "Os Sync Agent": "f7a275ef525ad89bd6e4cf4f19d565c1",
@@ -170,18 +171,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-27T13:04:01",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Digital Printing"
-          ]
-        }
-      ],
-      "total_repos": 113
-    },
     {
       "date": "2026-04-27T17:21:04",
       "changes": [
@@ -1169,6 +1158,24 @@
         }
       ],
       "total_repos": 165
+    },
+    {
+      "date": "2026-04-30T22:54:54",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Novelty Text Editor"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Kde Plasmoid Dev"
+          ]
+        }
+      ],
+      "total_repos": 166
     }
   ]
 }

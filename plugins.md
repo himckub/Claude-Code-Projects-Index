@@ -875,6 +875,15 @@ Repo-based task queueing system with categorisation and prioritisation. Scaffold
 
 ---
 
+## Text
+
+### Novelty Text Editor
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Novelty-Text-Editor-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Rewrite text in deliberately ridiculous styles — Shakespearean, medieval, archaic, chaos-case, over-salesy, platitude-stuffed, pseudobot, plus length transforms (elongate / truncate). Nine no-config skills for stylistic mischief.
+
+---
+
 ## Toon
 
 ### Get Toony

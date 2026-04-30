@@ -1581,9 +1581,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "kde-plasmoid-dev",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Keyboard Scanner",
@@ -1865,6 +1865,20 @@
     "added_date": "2026-04-30",
     "slug": "non-code-claude-code",
     "created_date": "2025-10-03"
+  },
+  {
+    "name": "Novelty Text Editor",
+    "url": "https://github.com/danielrosehill/Claude-Novelty-Text-Editor-Plugin",
+    "description": "Rewrite text in deliberately ridiculous styles \u2014 Shakespearean, medieval, archaic, chaos-case, over-salesy, platitude-stuffed, pseudobot, plus length transforms (elongate / truncate). Nine no-config skills for stylistic mischief.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "novelty-text-editor",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Obs Mgmt",
