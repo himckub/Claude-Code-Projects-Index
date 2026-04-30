@@ -135,6 +135,20 @@
     "created_date": "2025-10-31"
   },
   {
+    "name": "Air Quality Toolkit",
+    "url": "https://github.com/danielrosehill/Air-Quality-Toolkit-Plugin",
+    "description": "Look up current and historical air quality, calculate AQI from raw pollutant readings, and run modelling utilities. Defaults to WAQI with fallbacks to OpenAQ and AireLibre.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "air-quality-toolkit",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Audio Production",
     "url": "https://github.com/danielrosehill/Claude-Audio-Production-Plugin",
     "description": "Claude Code plugin: audio production workflow \u2014 normalize, VAD, transcribe, diarize, podcast assembly, with engineering/podcast/transcript variants.",
@@ -457,9 +471,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "claude-code-feedback",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Claude Code Linux Desktop Slash Commands",
@@ -1313,9 +1327,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "geopol-sim",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Get Toony",
@@ -1431,9 +1445,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "home-assistant-mgmt",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "How-To-MCP",
@@ -1950,9 +1964,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "opnsense-mgmt",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Os Sync Agent",
@@ -2040,9 +2054,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "proxmox-mgmt",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Purchasing",
@@ -2335,9 +2349,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-04-30",
     "slug": "synology-mgmt",
-    "created_date": "2026-04-28"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Synthetic Data",

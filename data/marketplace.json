@@ -2547,6 +2547,28 @@
         "open-source",
         "repo-scaffolding"
       ]
+    },
+    {
+      "name": "air-quality-toolkit",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Air-Quality-Toolkit-Plugin"
+      },
+      "description": "Look up current and historical air quality, calculate AQI from raw pollutant readings, and run modelling utilities. Defaults to WAQI with fallbacks to OpenAQ and AireLibre.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "air-quality",
+        "aqi",
+        "environment",
+        "waqi",
+        "openaq"
+      ]
     }
   ]
 }

@@ -716,6 +716,15 @@ ADB (Android Debug Bridge) operations — onboard a phone, map folders, import m
 
 ---
 
+## Air Quality
+
+### Air Quality Toolkit
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Air-Quality-Toolkit-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Look up current and historical air quality, calculate AQI from raw pollutant readings, and run modelling utilities. Defaults to WAQI with fallbacks to OpenAQ and AireLibre.
+
+---
+
 ## Analysis
 
 ### Report Analyst
