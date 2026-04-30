@@ -897,6 +897,15 @@ Thin orchestrator for geopolitical forecasting simulations. Scaffolds, runs, bun
 
 ---
 
+## Forensics
+
+### Digital Evidence
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Digital-Evidence-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+General-purpose digital-evidence processing: capture, hash, OpenTimestamps, ExifTool/MediaInfo metadata, BagIt packaging, immutable sync. Layers with legal-investigative for full chain-of-custody workflows.
+
+---
+
 ## Gimp
 
 ### Gimp
@@ -1272,6 +1281,15 @@ Build programmatic document generation pipelines — Typst templates for local b
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Visual-Communications-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
 Plan and prompt-engineer AI-generated visuals (images, diagrams, video) for whitepapers, blog posts, and long-form content. Six skills cover project onboarding, visual ideation, prompt generation, project listing, fal-ai execution, and a resolution/style reference.
+
+---
+
+## Voice
+
+### Claude Pa
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-PA) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Claude Code plugin: passive-aggressive PA system. Claude barks status updates over a speaker; if ignored, escalates across the house via Home Assistant or MQTT. Includes pre-recorded voice packs, RGB signal bulb, full-screen flash overlay, and a quiet-mode skill that translates natural-language pause/schedule requests.
 
 ---
 

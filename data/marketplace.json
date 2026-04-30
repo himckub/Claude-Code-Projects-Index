@@ -2198,6 +2198,53 @@
         "prompt-engineering",
         "content"
       ]
+    },
+    {
+      "name": "claude-pa",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-PA"
+      },
+      "description": "Claude Code plugin: passive-aggressive PA system. Claude barks status updates over a speaker; if ignored, escalates across the house via Home Assistant or MQTT. Includes pre-recorded voice packs, RGB signal bulb, full-screen flash overlay, and a quiet-mode skill that translates natural-language pause/schedule requests.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "voice",
+        "audio",
+        "home-assistant",
+        "mqtt",
+        "notifications",
+        "novelty"
+      ]
+    },
+    {
+      "name": "digital-evidence",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Digital-Evidence-Plugin"
+      },
+      "description": "General-purpose digital-evidence processing: capture, hash, OpenTimestamps, ExifTool/MediaInfo metadata, BagIt packaging, immutable sync. Layers with legal-investigative for full chain-of-custody workflows.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "forensics",
+        "evidence",
+        "metadata",
+        "chain-of-custody",
+        "opentimestamps",
+        "bagit",
+        "exiftool"
+      ]
     }
   ]
 }

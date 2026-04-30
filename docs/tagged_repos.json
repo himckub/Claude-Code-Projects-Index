@@ -576,9 +576,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "claude-data-wrangler",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Claude Deep Research Model (Notes / Documentation)",
@@ -758,6 +758,20 @@
     "added_date": "2026-04-30",
     "slug": "claude-model-identifier",
     "created_date": "2025-12-21"
+  },
+  {
+    "name": "Claude Pa",
+    "url": "https://github.com/danielrosehill/Claude-PA",
+    "description": "Claude Code plugin: passive-aggressive PA system. Claude barks status updates over a speaker; if ignored, escalates across the house via Home Assistant or MQTT. Includes pre-recorded voice packs, RGB signal bulb, full-screen flash overlay, and a quiet-mode skill that translates natural-language pause/schedule requests.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "claude-pa",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Claude Pipewire Skills",
@@ -1171,6 +1185,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Digital Evidence",
+    "url": "https://github.com/danielrosehill/Claude-Digital-Evidence-Plugin",
+    "description": "General-purpose digital-evidence processing: capture, hash, OpenTimestamps, ExifTool/MediaInfo metadata, BagIt packaging, immutable sync. Layers with legal-investigative for full chain-of-custody workflows.",
+    "tags": [
+      "Automation",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "digital-evidence",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Digital Printing",
     "url": "https://github.com/danielrosehill/Claude-Digital-Printing-Plugin",
     "description": "Skills and an orchestrator agent for preparing PDFs for digital printing \u2014 resize, grayscale, font embedding, transparency flattening, image downsampling, color normalization, watermarks, footer burn-ins, cover pages, bleed-safety check, job folders, formal print orders, and email/Drive share.",
@@ -1415,9 +1444,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "image-production",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Israel Agent Skills",
@@ -1430,9 +1459,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "israel-agent-skills",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Israel Shopping",
@@ -1611,9 +1640,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "llm-council-creator",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Local Claude Plugin Install Research",
@@ -1641,9 +1670,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "local-web-capture",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Loose Tasks",
@@ -1684,9 +1713,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-23",
+    "added_date": "2026-04-30",
     "slug": "media-assistant-ops",
-    "created_date": "2026-04-23"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Media Library",
