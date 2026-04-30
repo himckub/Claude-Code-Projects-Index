@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T23:00:26",
-  "total_repos": 170,
+  "last_built": "2026-04-30T23:02:03",
+  "total_repos": 171,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -153,7 +153,8 @@
     "Skill Creation Research": "b1069253c8481f99f4b0a8e644c23205",
     "Smart Home": "316d6b21c767c93532c9a1e74efd1009",
     "Smithery Claude Code MCP Jumpstarter": "4bc8ad99cd88cd62fc7b83302fc4699c",
-    "Social Feedback": "3eca5fe20d7b8de6a4c5ddbe4bbf0e10",
+    "Snap It": "1c614d28978413e7daad5312b1fd8fec",
+    "Social Feedback": "da0db47c6d21821231bb6a63cae9a729",
     "Sop Writer": "5e51471ac1c5f43bb6c36883fad54e1c",
     "Spec Starter": "51e8c47b97026bf16aa9c730fdcdd088",
     "Style Switcher": "3fa763b932fda3e0cd27efb4a013169b",
@@ -175,24 +176,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-27T23:51:56",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Linux Packaging"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Agent Junction"
-          ]
-        }
-      ],
-      "total_repos": 118
-    },
     {
       "date": "2026-04-28T13:47:37",
       "changes": [
@@ -1162,6 +1145,24 @@
         }
       ],
       "total_repos": 170
+    },
+    {
+      "date": "2026-04-30T23:02:03",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Snap It"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Social Feedback"
+          ]
+        }
+      ],
+      "total_repos": 171
     }
   ]
 }

@@ -743,6 +743,15 @@ Plan, document, and implement a backup and data-protection strategy for the curr
 
 ---
 
+## Btrfs
+
+### Snap It
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Snap-It-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Manage BTRFS snapshots via snapper and btrfs from Claude Code — create, list, diff, rollback, and prune subvolume snapshots. Includes /snap and /snap-before commands for one-shot and pre/post-paired snapshots around risky changes.
+
+---
+
 ## Business
 
 ### Business Idea Eval

@@ -2238,6 +2238,20 @@
     "created_date": "2025-10-11"
   },
   {
+    "name": "Snap It",
+    "url": "https://github.com/danielrosehill/Claude-Snap-It-Plugin",
+    "description": "Manage BTRFS snapshots via snapper and btrfs from Claude Code \u2014 create, list, diff, rollback, and prune subvolume snapshots. Includes /snap and /snap-before commands for one-shot and pre/post-paired snapshots around risky changes.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "snap-it",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Social Feedback",
     "url": "https://github.com/danielrosehill/Social-Feedback-Plugin",
     "description": "Check what people are actually saying about a topic, product, or provider by searching curated social-discourse sources (Reddit, Hacker News, Stack Exchange, Trustpilot, YouTube, Lobsters).",
@@ -2247,9 +2261,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "social-feedback",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Sop Writer",
