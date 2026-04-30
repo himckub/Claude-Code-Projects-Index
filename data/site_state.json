@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T18:33:25",
-  "total_repos": 145,
+  "last_built": "2026-04-30T18:39:20",
+  "total_repos": 146,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "855fbda816f42cab8a0cf9efa1c0a9e3",
@@ -70,6 +70,7 @@
     "Content Writing": "a2de6730f888c3a6f45d6778a139b1a7",
     "CONTEXT.md": "625b7fb24a9d6f9a129f44087e5475ef",
     "Cool Claude Code Stuff": "ef3dc266adb70775e1f0c7739cbfa115",
+    "Copyq Scripting": "1b01a6b99355e7331f07f721e87c2a10",
     "Daniel Rosehill": "07039cba796a5851b9c8aa60a011db2b",
     "Data Annotation": "5a29664b94aed82804d16bf7a5c4830e",
     "Data Visualisation And Publishing": "df8495ad6f5f3ae65685ba67aa574826",
@@ -150,76 +151,6 @@
     "Workspace Foundational": "30ca58a180891eb3ba019ae4b0cc3b8d"
   },
   "history": [
-    {
-      "date": "2026-04-19T16:48:03",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "AI Engineering",
-            "Audio Production",
-            "Budgeting",
-            "Career",
-            "Claude Transcription",
-            "Content Writing",
-            "Debugging",
-            "Desktop Manager",
-            "Dev Tools",
-            "Filesystem Organiser",
-            "HP5200 Printer",
-            "Ideation Planning",
-            "Knowledge Documentation",
-            "Legal Investigative",
-            "Media Library",
-            "Meta Tools",
-            "PR & Media Work",
-            "Personal Planning",
-            "Purchasing",
-            "Research Space",
-            "Shopping",
-            "Smart Home",
-            "Sysadmin Homelab",
-            "Technical Docs",
-            "Video Production",
-            "Workspace Foundational"
-          ]
-        },
-        {
-          "type": "removed",
-          "repos": [
-            "Bash Alias Manager",
-            "Bug Catcher",
-            "Claude Code Feedback",
-            "Claude Code What Thing",
-            "Claude Document This",
-            "Claude Janitor",
-            "Claude Templatizer",
-            "ClaudeMD Chunker",
-            "Fix Documentation",
-            "Hp5200 Printer",
-            "MCP Command Generator",
-            "Make Agent Friendly",
-            "New Repo From Template",
-            "New Repo From Template Plugin",
-            "New Turn Hook",
-            "QA Team",
-            "Repo Retrofitter",
-            "Session Transfer",
-            "Tech Docs",
-            "Workspace Setup"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "AI Attribution",
-            "Claude User Memory",
-            "Security Checkup"
-          ]
-        }
-      ],
-      "total_repos": 86
-    },
     {
       "date": "2026-04-20T15:00:52",
       "changes": [
@@ -1224,6 +1155,18 @@
         }
       ],
       "total_repos": 145
+    },
+    {
+      "date": "2026-04-30T18:39:20",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Copyq Scripting"
+          ]
+        }
+      ],
+      "total_repos": 146
     }
   ]
 }

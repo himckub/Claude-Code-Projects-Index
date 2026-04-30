@@ -348,6 +348,15 @@ Manage the user-level ~/.claude/CLAUDE.md and its chunked ~/.claude/context/ dir
 
 ---
 
+## Copyq
+
+### Copyq Scripting
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-CopyQ-Scripting-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Foundational advanced clipboard scripting skills for CopyQ on Ubuntu Linux — CLI reference, custom commands, tab/item management, global shortcuts, and command bundle import/export.
+
+---
+
 ## Data Analysis
 
 ### Claude Data Analyst

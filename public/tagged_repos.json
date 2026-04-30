@@ -1006,6 +1006,22 @@
     "created_date": "2025-10-02"
   },
   {
+    "name": "Copyq Scripting",
+    "url": "https://github.com/danielrosehill/Claude-CopyQ-Scripting-Plugin",
+    "description": "Foundational advanced clipboard scripting skills for CopyQ on Ubuntu Linux \u2014 CLI reference, custom commands, tab/item management, global shortcuts, and command bundle import/export.",
+    "tags": [
+      "Documentation",
+      "Plugin",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "copyq-scripting",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Daniel Rosehill",
     "url": "https://github.com/danielrosehill/Daniel-Rosehill-Claude-Plugin",
     "description": "Personal-use skills and slash commands for Daniel Rosehill \u2014 released publicly for convenience.",
