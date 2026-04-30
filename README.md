@@ -994,6 +994,13 @@ Manage a Home Assistant instance via SSH and the HA REST API — guided first-ru
 
 ## Image
 
+### Background Removal
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Background-Removal-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Remove image backgrounds via rembg — single-pass, two-pass cleanup, batch mode, and KDE Dolphin right-click integration.
+
+---
+
 ### Image Annotation
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Image-Annotation-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 

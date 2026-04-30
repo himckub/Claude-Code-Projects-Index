@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:43:09",
-  "total_repos": 163,
+  "last_built": "2026-04-30T22:47:21",
+  "total_repos": 164,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -13,6 +13,7 @@
     "AI Video Producer": "f360ddf9c185712e37f73232c54498ff",
     "AI-Human Attribution Adder": "daf7f8442742cffb8cd2b072165be2a3",
     "Audio Production": "00b34839c7d0f663746ae794dcf6f1e0",
+    "Background Removal": "c767b293ede07ee91ac10d3821b4e84e",
     "Backup Planner": "99ac45cf0d74d7b8ca0ae650f2cdcc28",
     "Bash Alias Manager Claude": "93f1d3bbcaa62f206a7ae6eb79860f30",
     "Batch ClaudeMD Repo Creator": "e26993651ce928b3bb52d969cd2ae18c",
@@ -73,7 +74,7 @@
     "CONTEXT.md": "625b7fb24a9d6f9a129f44087e5475ef",
     "Cool Claude Code Stuff": "ef3dc266adb70775e1f0c7739cbfa115",
     "Copyq Scripting": "1b01a6b99355e7331f07f721e87c2a10",
-    "Daniel Rosehill": "07039cba796a5851b9c8aa60a011db2b",
+    "Daniel Rosehill": "769d75939155365ed55a5dde22ef4cd5",
     "Data Annotation": "5a29664b94aed82804d16bf7a5c4830e",
     "Data Visualisation And Publishing": "7b8533ed9deedd981196e18288d984b6",
     "Debugging": "5093c7759b499474854a59cc54d4f429",
@@ -139,7 +140,7 @@
     "Repo Mgmt": "6bdfc782797ead9837db87b49879d11d",
     "Repo To Content": "466980e09d4c7f2c9b708ef0d02c105f",
     "Research Space": "7cd1706696c42978aaf54bb08842763e",
-    "Resource List Builder": "040130dd94759b867438d6d9ecb01c12",
+    "Resource List Builder": "0f20c0a882407361af74632b1697e60b",
     "Resume Typesetter": "720658a9ff70266b4540b488dbff435f",
     "Schedule Manager": "cfd91d0ed938158ef83ea6914df3da31",
     "Security Auditor": "1e8b4bdfd483686ea69f10cc913670d5",
@@ -159,7 +160,7 @@
     "Teach This Repo": "995273d645cf41e984db50b5985c3b9f",
     "Technical Docs": "4daf29787e0e59b4aec62adca7237146",
     "Test Project Ideator": "bfae4e18f383867f28d8fb283f4625de",
-    "Text Corpus Analysis": "051ff9156af718ff612ccae39dda9124",
+    "Text Corpus Analysis": "34711fb2c0e6f5c1dd2b46acf3b41418",
     "The User Voice Types": "3fd3032d366b5076ded4a99d019a09d6",
     "Therapy Tracking": "61c8815eb1bc85baab5a5a2e56159f95",
     "User Claude MD": "223177b756c5e6847c1b0b2d31790b48",
@@ -168,24 +169,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-26T17:48:20",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "AI Video Production Lifecycle"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Israel Shopping"
-          ]
-        }
-      ],
-      "total_repos": 111
-    },
     {
       "date": "2026-04-26T17:51:16",
       "changes": [
@@ -1264,6 +1247,26 @@
         }
       ],
       "total_repos": 163
+    },
+    {
+      "date": "2026-04-30T22:47:21",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Background Removal"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Daniel Rosehill",
+            "Resource List Builder",
+            "Text Corpus Analysis"
+          ]
+        }
+      ],
+      "total_repos": 164
     }
   ]
 }

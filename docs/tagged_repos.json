@@ -151,6 +151,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Background Removal",
+    "url": "https://github.com/danielrosehill/Claude-Background-Removal-Plugin",
+    "description": "Remove image backgrounds via rembg \u2014 single-pass, two-pass cleanup, batch mode, and KDE Dolphin right-click integration.",
+    "tags": [
+      "Plugin",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "background-removal",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Backup Planner",
     "url": "https://github.com/danielrosehill/Claude-Backup-Planner-Plugin",
     "description": "Plan, document, and implement a backup and data-protection strategy for the current project \u2014 from architecture discovery through script generation and restore drills.",
@@ -1061,9 +1076,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-25",
+    "added_date": "2026-04-30",
     "slug": "daniel-rosehill",
-    "created_date": "2026-04-25"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Data Annotation",
@@ -2044,9 +2059,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-25",
+    "added_date": "2026-04-30",
     "slug": "resource-list-builder",
-    "created_date": "2026-04-25"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Resume Typesetter",
@@ -2338,9 +2353,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-25",
+    "added_date": "2026-04-30",
     "slug": "text-corpus-analysis",
-    "created_date": "2026-04-25"
+    "created_date": "2026-04-30"
   },
   {
     "name": "The User Voice Types",
