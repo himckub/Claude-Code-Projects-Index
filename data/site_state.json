@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:26:43",
-  "total_repos": 160,
+  "last_built": "2026-04-30T22:37:01",
+  "total_repos": 161,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -9,6 +9,7 @@
     "AI Engineering": "2fd3831ed2968185dd28e1c386c97737",
     "AI Ideation Runs": "d17341f83d1a876b40fc3f975ff2d4ca",
     "AI Memory Planning 0426": "cf0605572762f66d0c17b961afc95faa",
+    "AI Model Research": "6b50e6942e70fe8703de81a581acce2d",
     "AI Video Producer": "f360ddf9c185712e37f73232c54498ff",
     "AI-Human Attribution Adder": "daf7f8442742cffb8cd2b072165be2a3",
     "Audio Production": "00b34839c7d0f663746ae794dcf6f1e0",
@@ -74,7 +75,7 @@
     "Copyq Scripting": "1b01a6b99355e7331f07f721e87c2a10",
     "Daniel Rosehill": "07039cba796a5851b9c8aa60a011db2b",
     "Data Annotation": "5a29664b94aed82804d16bf7a5c4830e",
-    "Data Visualisation And Publishing": "df8495ad6f5f3ae65685ba67aa574826",
+    "Data Visualisation And Publishing": "7b8533ed9deedd981196e18288d984b6",
     "Debugging": "5093c7759b499474854a59cc54d4f429",
     "Decision Evaluation Framework": "4b92ef13f512620aab55a9d67077b4c7",
     "Declaude": "2e705c1a2c9fb4d5e9da445cd902adad",
@@ -120,11 +121,11 @@
     "MCPM Claude Code Docs": "a377e14df3c60cf26d6e442b45b1d1c6",
     "Media Assistant Ops": "1c074d7e239c8e072ac33012a1f28c96",
     "Media Library": "f2f5bd9c3ceeb3ed79e397b312ccb91e",
+    "Network Cups": "db99001e9330e0478bef1f76a0545e98",
     "New Turn Claude Hook": "c690180883039fde36dff26ced17986a",
     "No Wheel Inventions": "7364e3b72c8fc7875b424b752442472e",
     "Non-Code Claude Code": "9dd3fa5b7322b33e82998185c6e28009",
     "Obs Mgmt": "291a8e8da5ff6a10742e760d9b317134",
-    "Open Router Model Research": "a48b8bc2b817450103977daa57b3fa48",
     "Opnsense Mgmt": "0179b329bed4bc81ae31cd621571226d",
     "Os Sync Agent": "f7a275ef525ad89bd6e4cf4f19d565c1",
     "Personal Planning": "2e08e0b3a1821d2e12eeeadf2bac10ba",
@@ -165,18 +166,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-23T17:35:15",
-      "changes": [
-        {
-          "type": "modified",
-          "repos": [
-            "Data Visualisation And Publishing"
-          ]
-        }
-      ],
-      "total_repos": 106
-    },
     {
       "date": "2026-04-23T17:40:30",
       "changes": [
@@ -1251,6 +1240,31 @@
         }
       ],
       "total_repos": 160
+    },
+    {
+      "date": "2026-04-30T22:37:01",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "AI Model Research",
+            "Network Cups"
+          ]
+        },
+        {
+          "type": "removed",
+          "repos": [
+            "Open Router Model Research"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Data Visualisation And Publishing"
+          ]
+        }
+      ],
+      "total_repos": 161
     }
   ]
 }
