@@ -1994,9 +1994,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-27",
+    "added_date": "2026-04-30",
     "slug": "programmatic-doc-generation",
-    "created_date": "2026-04-27"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Proxmox Mgmt",
