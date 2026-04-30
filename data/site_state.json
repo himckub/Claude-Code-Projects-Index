@@ -1,5 +1,5 @@
 {
-  "last_built": "2026-04-30T18:40:18",
+  "last_built": "2026-04-30T18:40:33",
   "total_repos": 148,
   "total_tags": 14,
   "repo_manifest": {
@@ -142,9 +142,9 @@
     "Synology Mgmt": "be01bb264437ed14eadfc860674c2d56",
     "Sysadmin Homelab": "4fa213d556db47f2c5df1d6a6ed2a97b",
     "Task Queuer": "72bc01386d56ff7202b305be7a5ed115",
-    "Teach This Repo": "92d1510ed8cfa274d95d0c87de7e5d99",
+    "Teach This Repo": "995273d645cf41e984db50b5985c3b9f",
     "Technical Docs": "4daf29787e0e59b4aec62adca7237146",
-    "Test Project Ideator": "dc073bb52b5224043f0d1895151a92f2",
+    "Test Project Ideator": "bfae4e18f383867f28d8fb283f4625de",
     "Text Corpus Analysis": "051ff9156af718ff612ccae39dda9124",
     "The User Voice Types": "3fd3032d366b5076ded4a99d019a09d6",
     "Therapy Tracking": "61c8815eb1bc85baab5a5a2e56159f95",
@@ -153,18 +153,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-20T17:07:05",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Task Queuer"
-          ]
-        }
-      ],
-      "total_repos": 91
-    },
     {
       "date": "2026-04-20T17:11:24",
       "changes": [
@@ -1186,6 +1174,19 @@
             "Sysadmin Homelab",
             "Technical Docs",
             "Workspace Foundational"
+          ]
+        }
+      ],
+      "total_repos": 148
+    },
+    {
+      "date": "2026-04-30T18:40:33",
+      "changes": [
+        {
+          "type": "modified",
+          "repos": [
+            "Teach This Repo",
+            "Test Project Ideator"
           ]
         }
       ],
