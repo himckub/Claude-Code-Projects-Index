@@ -1,5 +1,5 @@
 {
-  "last_built": "2026-04-30T21:28:47",
+  "last_built": "2026-04-30T21:52:06",
   "total_repos": 150,
   "total_tags": 14,
   "repo_manifest": {
@@ -82,7 +82,7 @@
     "Dev Tools": "be97653fa2a595e6b8f36d3a9dea2e36",
     "Digital Printing": "014d0f450aef3bb1b52a24f7931e3f6a",
     "Favorite Plugins Installers": "37d8b975768462a89afc0f122599194e",
-    "Filesystem Organiser": "62fe10d4e3ec2ff8f1dcb123bf4646a0",
+    "Filesystem Organiser": "072d2a1c562a66305c4973afb57bad4d",
     "Geopol Sim": "589e6ae39300a3bb2e510a966eb92d0e",
     "Get Toony": "8b092d550b3461934ca3bf8e65b31cb7",
     "Gimp": "7e2f71fc58de6454ff24357c4f693a0b",
@@ -155,32 +155,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-20T22:02:34",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Adb Ops",
-            "Israel Shopping",
-            "Repo Mgmt"
-          ]
-        },
-        {
-          "type": "removed",
-          "repos": [
-            "Israel Skills"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Dev Tools"
-          ]
-        }
-      ],
-      "total_repos": 96
-    },
     {
       "date": "2026-04-21T00:44:44",
       "changes": [
@@ -1208,6 +1182,18 @@
           "type": "modified",
           "repos": [
             "Greeninvoice Ops"
+          ]
+        }
+      ],
+      "total_repos": 150
+    },
+    {
+      "date": "2026-04-30T21:52:06",
+      "changes": [
+        {
+          "type": "modified",
+          "repos": [
+            "Filesystem Organiser"
           ]
         }
       ],

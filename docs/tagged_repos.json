@@ -1186,7 +1186,7 @@
   {
     "name": "Filesystem Organiser",
     "url": "https://github.com/danielrosehill/Claude-Filesystem-Organiser-Plugin",
-    "description": "Claude Code plugin: filesystem organisation workflow \u2014 scan, dedupe, cleanup, rename, sort for local directories and Google Drive, with local/gdrive variants.",
+    "description": "Claude Code plugin: filesystem organisation workflow \u2014 scan, dedupe, cleanup, rename, sort for local directories and Google Drive, with local/gdrive variants. Includes organise-filesystem (modular modes) and super-organise (comprehensive single-pass) skills.",
     "tags": [
       "Automation",
       "Plugin"
