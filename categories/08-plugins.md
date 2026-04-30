@@ -855,6 +855,15 @@ Manage a Synology NAS via SSH — guided first-run onboarding, share/volume insp
 
 ---
 
+## Synthetic Data
+
+### Synthetic Data
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Synthetic-Data-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Generate synthetic datasets from schemas, real data, or LLM-driven personas. Tabular fit-and-sample (SDV: GaussianCopula, CTGAN, TVAE), Faker/Mimesis schema generation, deterministic PII swap, LLM-driven real-to-synth conversion for unstructured records, and SDMetrics-based quality/privacy evaluation (plus embedding-based leakage checks for text).
+
+---
+
 ## Task Management
 
 ### Task Queuer

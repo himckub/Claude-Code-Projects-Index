@@ -115,9 +115,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-26",
+    "added_date": "2026-04-30",
     "slug": "ai-video-producer",
-    "created_date": "2026-04-26"
+    "created_date": "2026-04-30"
   },
   {
     "name": "AI-Human Attribution Adder",
@@ -2253,6 +2253,20 @@
     "added_date": "2026-04-28",
     "slug": "synology-mgmt",
     "created_date": "2026-04-28"
+  },
+  {
+    "name": "Synthetic Data",
+    "url": "https://github.com/danielrosehill/Claude-Synthetic-Data-Plugin",
+    "description": "Generate synthetic datasets from schemas, real data, or LLM-driven personas. Tabular fit-and-sample (SDV: GaussianCopula, CTGAN, TVAE), Faker/Mimesis schema generation, deterministic PII swap, LLM-driven real-to-synth conversion for unstructured records, and SDMetrics-based quality/privacy evaluation (plus embedding-based leakage checks for text).",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "synthetic-data",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Sysadmin Homelab",

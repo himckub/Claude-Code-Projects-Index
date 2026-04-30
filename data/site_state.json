@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:47:21",
-  "total_repos": 164,
+  "last_built": "2026-04-30T22:51:10",
+  "total_repos": 165,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -10,7 +10,7 @@
     "AI Ideation Runs": "d17341f83d1a876b40fc3f975ff2d4ca",
     "AI Memory Planning 0426": "cf0605572762f66d0c17b961afc95faa",
     "AI Model Research": "6b50e6942e70fe8703de81a581acce2d",
-    "AI Video Producer": "f360ddf9c185712e37f73232c54498ff",
+    "AI Video Producer": "9a8f4d084db602b4c7cb0796d2dbdd9e",
     "AI-Human Attribution Adder": "daf7f8442742cffb8cd2b072165be2a3",
     "Audio Production": "00b34839c7d0f663746ae794dcf6f1e0",
     "Background Removal": "c767b293ede07ee91ac10d3821b4e84e",
@@ -154,6 +154,7 @@
     "Spec Starter": "51e8c47b97026bf16aa9c730fdcdd088",
     "Style Switcher": "3fa763b932fda3e0cd27efb4a013169b",
     "Synology Mgmt": "be01bb264437ed14eadfc860674c2d56",
+    "Synthetic Data": "a57ca3d0bc23e7ff50bcc81745752b3b",
     "Sysadmin Homelab": "4fa213d556db47f2c5df1d6a6ed2a97b",
     "System Recovery Mode": "777a4f08f1ee1b861e642fbd50c471c4",
     "Task Queuer": "de35a5c6ed9da41b749327f378f59a4e",
@@ -169,129 +170,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-26T17:51:16",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "AI Video Producer"
-          ]
-        },
-        {
-          "type": "removed",
-          "repos": [
-            "AI Video Production Lifecycle"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "AI-Human Attribution Adder",
-            "Bash Alias Manager Claude",
-            "Batch ClaudeMD Repo Creator",
-            "CONTEXT.md",
-            "Claude Agent Picker Pattern",
-            "Claude App Optimiser",
-            "Claude Bug Catcher",
-            "Claude Change My View",
-            "Claude Code Bash Aliases",
-            "Claude Code Context Feature Requests",
-            "Claude Code Context Toolkit",
-            "Claude Code Linux Desktop Slash Commands",
-            "Claude Code Linux Notes",
-            "Claude Code MCP Command Generator",
-            "Claude Code MCP List",
-            "Claude Code Marketplace Hub",
-            "Claude Code Plugins Marketplace",
-            "Claude Code Repo Managers ClaudeMD",
-            "Claude Deep Research Model (Notes / Documentation)",
-            "Claude Development Agents",
-            "Claude Dork",
-            "Claude File Organiser Super Slash",
-            "Claude Interview",
-            "Claude Is Awesome",
-            "Claude Local AI Agent Research",
-            "Claude Model Identifier",
-            "Claude Rescue",
-            "Claude Slash Commands",
-            "Claude Sub-Agent Network",
-            "Claude System Recovery Mode",
-            "Claude Task Manager",
-            "Claude Website Update Sender",
-            "Claude Workspace Setup Helper",
-            "Cool Claude Code Stuff",
-            "Declaude",
-            "Linux Desktop ClaudeMD Seeder",
-            "MCPM Claude Code Docs",
-            "New Turn Claude Hook",
-            "No Wheel Inventions",
-            "Non-Code Claude Code",
-            "Private And Public Claude MD",
-            "Smithery Claude Code MCP Jumpstarter"
-          ]
-        }
-      ],
-      "total_repos": 111
-    },
-    {
-      "date": "2026-04-27T11:11:23",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Kde Plasmoid Dev"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "AI Video Producer",
-            "AI-Human Attribution Adder",
-            "Bash Alias Manager Claude",
-            "Batch ClaudeMD Repo Creator",
-            "CONTEXT.md",
-            "Claude Agent Picker Pattern",
-            "Claude App Optimiser",
-            "Claude Bug Catcher",
-            "Claude Change My View",
-            "Claude Code Bash Aliases",
-            "Claude Code Context Feature Requests",
-            "Claude Code Context Toolkit",
-            "Claude Code Linux Desktop Slash Commands",
-            "Claude Code Linux Notes",
-            "Claude Code MCP Command Generator",
-            "Claude Code MCP List",
-            "Claude Code Repo Managers ClaudeMD",
-            "Claude Deep Research Model (Notes / Documentation)",
-            "Claude Development Agents",
-            "Claude Dork",
-            "Claude File Organiser Super Slash",
-            "Claude Interview",
-            "Claude Is Awesome",
-            "Claude Local AI Agent Research",
-            "Claude Model Identifier",
-            "Claude Rescue",
-            "Claude Slash Commands",
-            "Claude Sub-Agent Network",
-            "Claude System Recovery Mode",
-            "Claude Task Manager",
-            "Claude Website Update Sender",
-            "Claude Workspace Setup Helper",
-            "Cool Claude Code Stuff",
-            "Declaude",
-            "Linux Desktop ClaudeMD Seeder",
-            "MCPM Claude Code Docs",
-            "New Turn Claude Hook",
-            "No Wheel Inventions",
-            "Non-Code Claude Code",
-            "Private And Public Claude MD",
-            "Smithery Claude Code MCP Jumpstarter"
-          ]
-        }
-      ],
-      "total_repos": 112
-    },
     {
       "date": "2026-04-27T13:04:01",
       "changes": [
@@ -1267,6 +1145,30 @@
         }
       ],
       "total_repos": 164
+    },
+    {
+      "date": "2026-04-30T22:50:57",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Synthetic Data"
+          ]
+        }
+      ],
+      "total_repos": 165
+    },
+    {
+      "date": "2026-04-30T22:51:10",
+      "changes": [
+        {
+          "type": "modified",
+          "repos": [
+            "AI Video Producer"
+          ]
+        }
+      ],
+      "total_repos": 165
     }
   ]
 }
