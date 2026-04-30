@@ -327,21 +327,6 @@
     "created_date": "2025-12-23"
   },
   {
-    "name": "Claude Bug Catcher",
-    "url": "https://github.com/danielrosehill/Claude-Bug-Catcher",
-    "description": "Hotkey-triggered utility that launches Claude Code with relevant logs for real-time Linux debugging.",
-    "tags": [
-      "Sysadmin",
-      "Tool"
-    ],
-    "category": "Systems Administration",
-    "category_slug": "sysadmin",
-    "category_group": "Technical",
-    "added_date": "2026-04-30",
-    "slug": "claude-bug-catcher",
-    "created_date": "2025-12-28"
-  },
-  {
     "name": "Claude Calls The Shots",
     "url": "https://github.com/danielrosehill/Claude-Calls-The-Shots",
     "description": "Flips Claude Code into autonomous, action-first mode \u2014 ships a per-session `/calls-the-shots` slash command plus an optional always-on snippet injected into `~/.claude/CLAUDE.md`.",
@@ -1296,9 +1281,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "greeninvoice-ops",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Hardware Spec Assembly",

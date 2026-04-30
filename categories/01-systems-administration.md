@@ -13,13 +13,6 @@ Workspace for managing bash aliases with YADM synchronization support.
 
 ---
 
-### Claude Bug Catcher
-[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Bug-Catcher)
-
-Hotkey-triggered utility that launches Claude Code with relevant logs for real-time Linux debugging.
-
----
-
 ### Claude Code Bash Aliases
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Bash-Aliases)
 
@@ -49,13 +42,6 @@ Projects specifically targeting KDE Plasma desktop integration and Linux desktop
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Dolphin-Konsole-Actions)
 
 KDE Dolphin right-click context menu actions (service menus) for launching Claude Code in various Konsole window layouts, including single terminal, split panes, and multi-instance grids.
-
----
-
-### Claude Bug Catcher
-[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Bug-Catcher)
-
-Hotkey-triggered utility that launches Claude Code with relevant logs for real-time Linux debugging.
 
 ---
 

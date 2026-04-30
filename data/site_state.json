@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T21:28:09",
-  "total_repos": 151,
+  "last_built": "2026-04-30T21:28:47",
+  "total_repos": 150,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "855fbda816f42cab8a0cf9efa1c0a9e3",
@@ -25,7 +25,6 @@
     "Claude Agent Picker Pattern": "45a861b8bb8a5fa98433e824afc53ff5",
     "Claude Agent Workspace Generator": "f215f7e458da5649af1761d2432b6544",
     "Claude App Optimiser": "b1f8ae997db0bf0ae2d7002ead4913d1",
-    "Claude Bug Catcher": "c6a5bc482d0f80d68be3451286cd6692",
     "Claude Calls The Shots": "64dea16b93de1461dbb044a4a397cb10",
     "Claude Change My View": "54d348f33d0c25edd994a42988093f3e",
     "Claude Code Bash Aliases": "fcef35bc2d7059aa1a5982a30f769c1c",
@@ -89,7 +88,7 @@
     "Gimp": "7e2f71fc58de6454ff24357c4f693a0b",
     "Gist Writer": "c5a9248917a7cc4d3faf869ad5249e45",
     "Github Explorer": "aeea7bc5beedce6028567846c036fc10",
-    "Greeninvoice Ops": "43f54468e0caf3feadd51f14a415d201",
+    "Greeninvoice Ops": "86611bc82ea80fa6637fca62777774d5",
     "Hardware Spec Assembly": "18dcb164d10467ee10139e2801725772",
     "Home Assistant Mgmt": "f140da001f7a437204a939278148b944",
     "How-To-MCP": "ddc23ff9b67cab5ab6397a4d519a22b4",
@@ -156,18 +155,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-20T17:43:12",
-      "changes": [
-        {
-          "type": "modified",
-          "repos": [
-            "Greeninvoice Ops"
-          ]
-        }
-      ],
-      "total_repos": 94
-    },
     {
       "date": "2026-04-20T22:02:34",
       "changes": [
@@ -1207,6 +1194,24 @@
         }
       ],
       "total_repos": 151
+    },
+    {
+      "date": "2026-04-30T21:28:47",
+      "changes": [
+        {
+          "type": "removed",
+          "repos": [
+            "Claude Bug Catcher"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Greeninvoice Ops"
+          ]
+        }
+      ],
+      "total_repos": 150
     }
   ]
 }
