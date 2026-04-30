@@ -144,9 +144,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "backup-planner",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Bash Alias Manager Claude",
@@ -1081,10 +1081,11 @@
   {
     "name": "Debugging",
     "url": "https://github.com/danielrosehill/Claude-Debugging-Plugin",
-    "description": "Claude Code plugin: debugging workflow \u2014 capture logs, isolate issue, diagnose error, track bugs, with code/system/issue variants.",
+    "description": "Claude Code plugin: debugging workflow \u2014 capture logs, isolate issue, diagnose error, track bugs, with code/system/issue variants. Includes a KDE hotkey utility for capturing live system bugs.",
     "tags": [
       "Automation",
-      "Plugin"
+      "Plugin",
+      "Tool"
     ],
     "category": "Plugins",
     "category_slug": "plugins",

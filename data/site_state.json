@@ -1,5 +1,5 @@
 {
-  "last_built": "2026-04-30T20:13:33",
+  "last_built": "2026-04-30T21:28:09",
   "total_repos": 151,
   "total_tags": 14,
   "repo_manifest": {
@@ -12,7 +12,7 @@
     "AI Video Producer": "f360ddf9c185712e37f73232c54498ff",
     "AI-Human Attribution Adder": "daf7f8442742cffb8cd2b072165be2a3",
     "Audio Production": "00b34839c7d0f663746ae794dcf6f1e0",
-    "Backup Planner": "6d71b5559a4988abc7d0ef406089c001",
+    "Backup Planner": "99ac45cf0d74d7b8ca0ae650f2cdcc28",
     "Bash Alias Manager Claude": "93f1d3bbcaa62f206a7ae6eb79860f30",
     "Batch ClaudeMD Repo Creator": "e26993651ce928b3bb52d969cd2ae18c",
     "Batch Optical Archivist": "afeb5823a739c0cae1d55709cbf62a49",
@@ -75,7 +75,7 @@
     "Daniel Rosehill": "07039cba796a5851b9c8aa60a011db2b",
     "Data Annotation": "5a29664b94aed82804d16bf7a5c4830e",
     "Data Visualisation And Publishing": "df8495ad6f5f3ae65685ba67aa574826",
-    "Debugging": "5215b92030930d197ab5edbb47f5af79",
+    "Debugging": "5093c7759b499474854a59cc54d4f429",
     "Decision Evaluation Framework": "4b92ef13f512620aab55a9d67077b4c7",
     "Declaude": "2e705c1a2c9fb4d5e9da445cd902adad",
     "Declutter Genie": "77ffe2a78edf5647183771fa3968ea35",
@@ -156,18 +156,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-20T17:42:12",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Greeninvoice Ops"
-          ]
-        }
-      ],
-      "total_repos": 94
-    },
     {
       "date": "2026-04-20T17:43:12",
       "changes": [
@@ -1202,6 +1190,19 @@
           "type": "modified",
           "repos": [
             "Github Explorer"
+          ]
+        }
+      ],
+      "total_repos": 151
+    },
+    {
+      "date": "2026-04-30T21:28:09",
+      "changes": [
+        {
+          "type": "modified",
+          "repos": [
+            "Backup Planner",
+            "Debugging"
           ]
         }
       ],
