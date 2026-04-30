@@ -451,6 +451,13 @@ Claude Code plugin: Linux desktop management workflow — auto-profiles the loca
 
 ---
 
+### Security Auditor
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Security-Auditor-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Register machines and run repeatable Claude-Code-driven security audits over SSH, with timestamped reports and per-machine profiles.
+
+---
+
 ### Security Checkup
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Security-Checkup-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
@@ -1026,6 +1033,13 @@ Generates specifications for practice/dummy development projects tailored to the
 
 ## Linux
 
+### Keyboard Scanner
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Keyboard-Scanner) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Profile Linux keyboards, scan keycodes, and surface underused keys for remapping. Walks intake → keycode dump (xmodmap/XKB/evdev/libinput, X11 + Wayland) → tailored remap suggestions referencing keyd, kmonad, xremap, xmodmap, xbindkeys, input-remapper, autokey.
+
+---
+
 ### Linux Debugging
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Debugging-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
@@ -1037,6 +1051,13 @@ Linux desktop debugging toolkit — targeted journal/boot/log inspection skills 
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Packaging-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
 Linux packaging and release workflows — Debian/.deb builds, npm publishing, GitHub release creation, agent deploy scripts, and local debugging
+
+---
+
+### Os Sync Agent
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-OS-Sync-Agent) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Hardware-aware desktop-to-laptop environment sync for Ubuntu/Debian. Snapshots packages (apt/snap/flatpak/pip/conda/ollama) and dotfiles from a base machine and a remote machine over SSH, then produces an incremental install/remove/sync plan rather than a perfect clone. Ships /sync-os command and sync-environments skill.
 
 ---
 

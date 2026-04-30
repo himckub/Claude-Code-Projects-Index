@@ -2043,6 +2043,74 @@
         "growisofs",
         "linux"
       ]
+    },
+    {
+      "name": "security-auditor",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Security-Auditor-Plugin"
+      },
+      "description": "Register machines and run repeatable Claude-Code-driven security audits over SSH, with timestamped reports and per-machine profiles.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "security",
+        "audit",
+        "ssh",
+        "sysadmin",
+        "fleet"
+      ]
+    },
+    {
+      "name": "os-sync-agent",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-OS-Sync-Agent"
+      },
+      "description": "Hardware-aware desktop-to-laptop environment sync for Ubuntu/Debian. Snapshots packages (apt/snap/flatpak/pip/conda/ollama) and dotfiles from a base machine and a remote machine over SSH, then produces an incremental install/remove/sync plan rather than a perfect clone. Ships /sync-os command and sync-environments skill.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "linux",
+        "sysadmin",
+        "sync",
+        "ssh",
+        "ubuntu",
+        "debian"
+      ]
+    },
+    {
+      "name": "keyboard-scanner",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Keyboard-Scanner"
+      },
+      "description": "Profile Linux keyboards, scan keycodes, and surface underused keys for remapping. Walks intake \u2192 keycode dump (xmodmap/XKB/evdev/libinput, X11 + Wayland) \u2192 tailored remap suggestions referencing keyd, kmonad, xremap, xmodmap, xbindkeys, input-remapper, autokey.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "linux",
+        "keyboard",
+        "keycodes",
+        "xkb",
+        "remap",
+        "input"
+      ]
     }
   ]
 }

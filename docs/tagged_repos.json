@@ -9,9 +9,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "adb-ops",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Agent Junction",
@@ -1357,9 +1357,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-21",
+    "added_date": "2026-04-30",
     "slug": "html-email-designer",
-    "created_date": "2026-04-21"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Ideation Planning",
@@ -1431,9 +1431,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "israel-shopping",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Jewish Texts Reference",
@@ -1494,6 +1494,20 @@
     "added_date": "2026-04-27",
     "slug": "kde-plasmoid-dev",
     "created_date": "2026-04-27"
+  },
+  {
+    "name": "Keyboard Scanner",
+    "url": "https://github.com/danielrosehill/Claude-Keyboard-Scanner",
+    "description": "Profile Linux keyboards, scan keycodes, and surface underused keys for remapping. Walks intake \u2192 keycode dump (xmodmap/XKB/evdev/libinput, X11 + Wayland) \u2192 tailored remap suggestions referencing keyd, kmonad, xremap, xmodmap, xbindkeys, input-remapper, autokey.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "keyboard-scanner",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Knowledge Documentation",
@@ -1765,6 +1779,20 @@
     "created_date": "2026-04-28"
   },
   {
+    "name": "Os Sync Agent",
+    "url": "https://github.com/danielrosehill/Claude-OS-Sync-Agent",
+    "description": "Hardware-aware desktop-to-laptop environment sync for Ubuntu/Debian. Snapshots packages (apt/snap/flatpak/pip/conda/ollama) and dotfiles from a base machine and a remote machine over SSH, then produces an incremental install/remove/sync plan rather than a perfect clone. Ships /sync-os command and sync-environments skill.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "os-sync-agent",
+    "created_date": "2025-10-22"
+  },
+  {
     "name": "Personal Planning",
     "url": "https://github.com/danielrosehill/Claude-Personal-Planning-Plugin",
     "description": "Claude Code plugin: personal life planning workflow \u2014 log entries, review progress, set goals, with diary/health/family/house-search/preparedness/personal-dev/inbox variants.",
@@ -1866,9 +1894,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-20",
+    "added_date": "2026-04-30",
     "slug": "repo-mgmt",
-    "created_date": "2026-04-20"
+    "created_date": "2026-04-30"
   },
   {
     "name": "Repo To Content",
@@ -1943,6 +1971,20 @@
     "added_date": "2026-04-28",
     "slug": "schedule-manager",
     "created_date": "2026-04-28"
+  },
+  {
+    "name": "Security Auditor",
+    "url": "https://github.com/danielrosehill/Claude-Security-Auditor-Plugin",
+    "description": "Register machines and run repeatable Claude-Code-driven security audits over SSH, with timestamped reports and per-machine profiles.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "security-auditor",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Security Checkup",
