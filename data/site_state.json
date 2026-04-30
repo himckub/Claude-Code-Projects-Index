@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T11:59:43",
-  "total_repos": 143,
+  "last_built": "2026-04-30T16:35:23",
+  "total_repos": 144,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "855fbda816f42cab8a0cf9efa1c0a9e3",
@@ -77,8 +77,8 @@
     "Decision Evaluation Framework": "4b92ef13f512620aab55a9d67077b4c7",
     "Declaude": "2e705c1a2c9fb4d5e9da445cd902adad",
     "Declutter Genie": "77ffe2a78edf5647183771fa3968ea35",
-    "Desktop Manager": "83e2057a4a3e8add10c9c58da977fb7b",
-    "Dev Tools": "706e38391112bf03a86ac6c2b1d1d65d",
+    "Desktop Manager": "4391b577bf5c8e169361867e44782fa2",
+    "Dev Tools": "dfc23efd6b07db1db03c8c96cb5ac431",
     "Digital Printing": "014d0f450aef3bb1b52a24f7931e3f6a",
     "Filesystem Organiser": "28f4bdb5689a436b3584bd8a50d31597",
     "Geopol Sim": "589e6ae39300a3bb2e510a966eb92d0e",
@@ -113,6 +113,7 @@
     "New Turn Claude Hook": "c690180883039fde36dff26ced17986a",
     "No Wheel Inventions": "7364e3b72c8fc7875b424b752442472e",
     "Non-Code Claude Code": "9dd3fa5b7322b33e82998185c6e28009",
+    "Obs Mgmt": "291a8e8da5ff6a10742e760d9b317134",
     "Open Router Model Research": "a48b8bc2b817450103977daa57b3fa48",
     "Opnsense Mgmt": "0179b329bed4bc81ae31cd621571226d",
     "Personal Planning": "f2dedddf89a7528d00f4486bc68f7fb5",
@@ -148,26 +149,6 @@
     "Workspace Foundational": "30ca58a180891eb3ba019ae4b0cc3b8d"
   },
   "history": [
-    {
-      "date": "2026-04-16T22:46:56",
-      "changes": [
-        {
-          "type": "removed",
-          "repos": [
-            "Claude Business Continuity Planner",
-            "Claude Career Planning Template",
-            "Claude Code Writing Squad",
-            "Claude Health Helper",
-            "Claude Ivory PC Builder",
-            "Claude MVT Workspace",
-            "Claude Media Monitor",
-            "Claude Personal Development Workspace",
-            "ProofMode Unpacker"
-          ]
-        }
-      ],
-      "total_repos": 111
-    },
     {
       "date": "2026-04-19T01:31:53",
       "changes": [
@@ -1252,6 +1233,25 @@
         }
       ],
       "total_repos": 143
+    },
+    {
+      "date": "2026-04-30T16:35:23",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Obs Mgmt"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Desktop Manager",
+            "Dev Tools"
+          ]
+        }
+      ],
+      "total_repos": 144
     }
   ]
 }

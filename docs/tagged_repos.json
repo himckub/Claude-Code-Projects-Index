@@ -1110,7 +1110,7 @@
   {
     "name": "Desktop Manager",
     "url": "https://github.com/danielrosehill/Claude-Desktop-Manager-Plugin",
-    "description": "Claude Code plugin: Linux desktop management workflow \u2014 check system, install packages, apply config, troubleshoot hardware, review logs, update system.",
+    "description": "Claude Code plugin: Linux desktop management workflow \u2014 auto-profiles the local machine on first run and persists it to user data, then runs system checks, package install/remove, config application, hardware troubleshooting, service/log inspection against that profile.",
     "tags": [
       "Agent Workspace",
       "Automation",
@@ -1126,9 +1126,10 @@
   {
     "name": "Dev Tools",
     "url": "https://github.com/danielrosehill/Claude-Dev-Tools-Plugin",
-    "description": "Claude Code plugin: dev tools workflow \u2014 scaffold repos, QA code review, templatize, session continuity. Retrofit-* and janitor-* skills moved to the repo-mgmt plugin in 2.0.0.",
+    "description": "Claude Code plugin: dev-tools workflow \u2014 scaffold repos, multi-agent QA review, templatize. Session-handover commands and agent moved to claude-hopper in 1.2.0.",
     "tags": [
       "Automation",
+      "Multi-Agent",
       "Plugin"
     ],
     "category": "Plugins",
@@ -1643,6 +1644,21 @@
     "added_date": "2026-04-30",
     "slug": "non-code-claude-code",
     "created_date": "2025-10-03"
+  },
+  {
+    "name": "Obs Mgmt",
+    "url": "https://github.com/danielrosehill/Claude-OBS-Plugin",
+    "description": "Manage OBS Studio on Linux from Claude Code: detect install type (native/Flatpak/Snap/AppImage), enable and validate obs-websocket, ship a bundled obs-mcp MCP server for programmatic OBS control, back up configs to a user-defined folder, and install third-party OBS plugins.",
+    "tags": [
+      "MCP",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "obs-mgmt",
+    "created_date": "2026-04-30"
   },
   {
     "name": "Open Router Model Research",
