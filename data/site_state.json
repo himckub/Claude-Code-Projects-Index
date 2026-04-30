@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-04-30T22:58:52",
-  "total_repos": 169,
+  "last_built": "2026-04-30T23:00:26",
+  "total_repos": 170,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "7d739c262cb37053b08f3ffd74015074",
@@ -86,6 +86,7 @@
     "Dev Tools": "be97653fa2a595e6b8f36d3a9dea2e36",
     "Digital Evidence": "4747a8d9a0d7fc6f19b1b7dabcfdf63e",
     "Digital Printing": "3987fffbbeb7e1613278c71178eca7a5",
+    "Document To Markdown": "bf9676967af5920c67d0ab2ab66640ad",
     "Donetick": "489793991e15b2af8d8182c2a1b5a62e",
     "Favorite Plugins Installers": "37d8b975768462a89afc0f122599194e",
     "Filesystem Organiser": "072d2a1c562a66305c4973afb57bad4d",
@@ -174,18 +175,6 @@
     "Workspace Foundational": "dcec6d264cc7d6ebd7b81d4acd33e671"
   },
   "history": [
-    {
-      "date": "2026-04-27T22:20:41",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Social Feedback"
-          ]
-        }
-      ],
-      "total_repos": 117
-    },
     {
       "date": "2026-04-27T23:51:56",
       "changes": [
@@ -1161,6 +1150,18 @@
         }
       ],
       "total_repos": 169
+    },
+    {
+      "date": "2026-04-30T23:00:26",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Document To Markdown"
+          ]
+        }
+      ],
+      "total_repos": 170
     }
   ]
 }

@@ -774,6 +774,13 @@ Skills and an orchestrator agent for preparing PDFs for digital printing — res
 
 ---
 
+### Document To Markdown
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/document-to-markdown-plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Convert PDFs to clean Markdown, chunk into logical sections (chapters, indexes, appendices), and extract embedded tables to CSV. Local-first via marker/docling/pymupdf4llm + camelot/tabula, with TOON manifests.
+
+---
+
 ## Pipewire
 
 ### Claude Pipewire Skills

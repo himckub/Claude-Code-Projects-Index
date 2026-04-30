@@ -1245,6 +1245,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Document To Markdown",
+    "url": "https://github.com/danielrosehill/document-to-markdown-plugin",
+    "description": "Convert PDFs to clean Markdown, chunk into logical sections (chapters, indexes, appendices), and extract embedded tables to CSV. Local-first via marker/docling/pymupdf4llm + camelot/tabula, with TOON manifests.",
+    "tags": [
+      "Plugin",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-04-30",
+    "slug": "document-to-markdown",
+    "created_date": "2026-04-30"
+  },
+  {
     "name": "Donetick",
     "url": "https://github.com/danielrosehill/Claude-Donetick-Plugin",
     "description": "Companion plugin for the donetick-mcp server. Bundles the MCP and adds skills for chore management against a self-hosted Donetick instance \u2014 daily brief, list/create/complete chores, label management.",
