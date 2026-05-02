@@ -2616,6 +2616,28 @@
         "presidio",
         "redaction"
       ]
+    },
+    {
+      "name": "userscript-development",
+      "source": {
+        "source": "github",
+        "repo": "danielrosehill/Claude-Userscript-Development-Plugin"
+      },
+      "description": "Develop, test, and publish Tampermonkey userscripts \u2014 scaffolding, in-browser validation via Claude in Chrome, README generation, and version bumping.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Daniel Rosehill",
+        "email": "public@danielrosehill.com",
+        "url": "https://danielrosehill.com"
+      },
+      "license": "MIT",
+      "tags": [
+        "userscript",
+        "tampermonkey",
+        "browser",
+        "automation",
+        "web"
+      ]
     }
   ]
 }

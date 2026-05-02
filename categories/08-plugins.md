@@ -979,6 +979,15 @@ Build programmatic document generation pipelines — Typst templates for local b
 
 ---
 
+## Userscript
+
+### Userscript Development
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Userscript-Development-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Develop, test, and publish Tampermonkey userscripts — scaffolding, in-browser validation via Claude in Chrome, README generation, and version bumping.
+
+---
+
 ## Visuals
 
 ### Visual Communications
