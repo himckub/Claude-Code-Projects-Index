@@ -1519,9 +1519,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-05-03",
     "slug": "image-annotation",
-    "created_date": "2026-04-28"
+    "created_date": "2026-05-03"
   },
   {
     "name": "Image Production",
@@ -2661,6 +2661,20 @@
     "category_group": "Technical",
     "added_date": "2026-05-03",
     "slug": "workspace-foundational",
+    "created_date": "2026-05-03"
+  },
+  {
+    "name": "Zigbee Home Maintenance",
+    "url": "https://github.com/danielrosehill/Claude-Zigbee-Home-Maintenance-Plugin",
+    "description": "Maintain a home Zigbee network \u2014 onboard MQTT broker, coordinator (SMLight / Sonoff / ConBee / etc.), and Home Assistant; manage credentials, network exports, and routine maintenance.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-05-03",
+    "slug": "zigbee-home-maintenance",
     "created_date": "2026-05-03"
   }
 ]

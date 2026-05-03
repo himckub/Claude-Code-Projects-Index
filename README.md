@@ -1465,6 +1465,15 @@ Claude Code plugin: passive-aggressive PA system. Claude barks status updates ov
 
 ---
 
+## Zigbee
+
+### Zigbee Home Maintenance
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Zigbee-Home-Maintenance-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Maintain a home Zigbee network — onboard MQTT broker, coordinator (SMLight / Sonoff / ConBee / etc.), and Home Assistant; manage credentials, network exports, and routine maintenance.
+
+---
+
 # Templates / Scaffolds
 
 Scaffolds used to be distributed as ~100 standalone template repos and a `New-Repo-From-Template` plugin. That pattern was retired in the April 2026 reshape.

@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-05-03T17:00:24",
-  "total_repos": 179,
+  "last_built": "2026-05-03T19:16:51",
+  "total_repos": 180,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "e732c480b10a6158c531f1c8b1f41f9d",
@@ -104,7 +104,7 @@
     "HP5200 Printer": "69ebdd3be171201152b642340f9fbf12",
     "Html Email Designer": "2772e429eb27acacae857496c78b6df0",
     "Ideation Planning": "39ffbe1abc10ed1187d8b4cb820cbc97",
-    "Image Annotation": "b47aed5ace3de158afeb66fd7ac16da8",
+    "Image Annotation": "a40ba66699319969c5960c28de437434",
     "Image Production": "602e2bf49f3410c019f6e793ce36cd29",
     "Israel Agent Skills": "2c8aa53aaf247456127d5b1172c38dab",
     "Israel Shopping": "73eb90a7fdbb4eb34057fb35df413853",
@@ -181,21 +181,10 @@
     "Userscript Development": "73c1a32f92b4a3416d9896de76076d16",
     "Video Editing": "b4c3be341f06a05008ee83cfc0c544e5",
     "Visual Communications": "5e8bf2a90646fd82a56a006a1c098eee",
-    "Workspace Foundational": "c6dba1f6f0941820c12156cf2e922817"
+    "Workspace Foundational": "c6dba1f6f0941820c12156cf2e922817",
+    "Zigbee Home Maintenance": "ba03f10b0b08bea540fa518f15073dc5"
   },
   "history": [
-    {
-      "date": "2026-04-28T14:58:22",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Linux Debugging"
-          ]
-        }
-      ],
-      "total_repos": 131
-    },
     {
       "date": "2026-04-28T15:06:25",
       "changes": [
@@ -1526,6 +1515,24 @@
         }
       ],
       "total_repos": 179
+    },
+    {
+      "date": "2026-05-03T19:16:51",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Zigbee Home Maintenance"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Image Annotation"
+          ]
+        }
+      ],
+      "total_repos": 180
     }
   ]
 }
