@@ -986,6 +986,15 @@ Convert JSON, CSV, YAML, and other structured data into TOON (Token-Oriented Obj
 
 ---
 
+## Tts
+
+### Text To Speech Toolkit
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Text-To-Speech-Toolkit-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Skills for preprocessing text for TTS engines — SSML conversion, ElevenLabs markup (grounded in live ElevenLabs prompting docs), TTS safety review, and manual prosody addition. Non-destructive by default: edits land in an edited/ folder alongside an unchanged original/ copy.
+
+---
+
 ## Typst
 
 ### Programmatic Doc Generation

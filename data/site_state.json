@@ -1,6 +1,6 @@
 {
-  "last_built": "2026-05-03T14:08:13",
-  "total_repos": 178,
+  "last_built": "2026-05-03T17:00:24",
+  "total_repos": 179,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "e732c480b10a6158c531f1c8b1f41f9d",
@@ -79,7 +79,7 @@
     "Data Annotation": "5227c99ca57c1521cc4845f037970f62",
     "Data Visualisation And Publishing": "ab8f2fb8efec27b2734ea72570c1d3f8",
     "Debugging": "ce8420b7ed852521c683490c2d4e09da",
-    "Decision Evaluation Framework": "4b92ef13f512620aab55a9d67077b4c7",
+    "Decision Evaluation Framework": "857e7b39bae8842bc749f75309a22565",
     "Declaude": "cc7b781efa8ae9b4574130b4cc1dabc5",
     "Declutter Genie": "77ffe2a78edf5647183771fa3968ea35",
     "Desktop Manager": "b581c5167fbd16858af0fed0c175732d",
@@ -174,6 +174,7 @@
     "Technical Docs": "f4e3d048511cc958d94e2bec53623819",
     "Test Project Ideator": "f5a8d7f0f793e8007c64861a98fc3b65",
     "Text Corpus Analysis": "6d09cdd097f6343371664e3b5d3e3986",
+    "Text To Speech Toolkit": "6b61fd420e803d9f0b782af5d12a29a5",
     "The User Voice Types": "085fa5ef267ff2d769e2d7ec5e1f698a",
     "Therapy Tracking": "61c8815eb1bc85baab5a5a2e56159f95",
     "User Claude MD": "7877c80c284128a9af59f40c5437638b",
@@ -183,27 +184,6 @@
     "Workspace Foundational": "c6dba1f6f0941820c12156cf2e922817"
   },
   "history": [
-    {
-      "date": "2026-04-28T14:54:57",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Image Annotation"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Claude Agent Blueprints",
-            "Claude Agent Workspace Generator",
-            "Claude MD Chunk",
-            "Ideation Planning"
-          ]
-        }
-      ],
-      "total_repos": 130
-    },
     {
       "date": "2026-04-28T14:58:22",
       "changes": [
@@ -1528,6 +1508,24 @@
         }
       ],
       "total_repos": 178
+    },
+    {
+      "date": "2026-05-03T17:00:24",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Text To Speech Toolkit"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Decision Evaluation Framework"
+          ]
+        }
+      ],
+      "total_repos": 179
     }
   ]
 }

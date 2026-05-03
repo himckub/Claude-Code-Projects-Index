@@ -1148,9 +1148,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-05-03",
     "slug": "decision-evaluation-framework",
-    "created_date": "2026-04-28"
+    "created_date": "2026-05-03"
   },
   {
     "name": "Declaude",
@@ -2540,6 +2540,20 @@
     "category_group": "Technical",
     "added_date": "2026-05-03",
     "slug": "text-corpus-analysis",
+    "created_date": "2026-05-03"
+  },
+  {
+    "name": "Text To Speech Toolkit",
+    "url": "https://github.com/danielrosehill/Claude-Text-To-Speech-Toolkit-Plugin",
+    "description": "Skills for preprocessing text for TTS engines \u2014 SSML conversion, ElevenLabs markup (grounded in live ElevenLabs prompting docs), TTS safety review, and manual prosody addition. Non-destructive by default: edits land in an edited/ folder alongside an unchanged original/ copy.",
+    "tags": [
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-05-03",
+    "slug": "text-to-speech-toolkit",
     "created_date": "2026-05-03"
   },
   {
