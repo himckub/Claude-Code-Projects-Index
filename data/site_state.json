@@ -1,10 +1,11 @@
 {
-  "last_built": "2026-05-03T19:16:51",
-  "total_repos": 180,
+  "last_built": "2026-05-03T21:31:41",
+  "total_repos": 181,
   "total_tags": 14,
   "repo_manifest": {
     "Adb Ops": "e732c480b10a6158c531f1c8b1f41f9d",
     "Agent Junction": "17aa2abc151494daded322f58935fd99",
+    "Agent Relay": "f4a7b8b64940d03266a1bc699c7c039d",
     "AI Attribution": "c701cd2407c55f6962e2df50f2436069",
     "AI Engineering": "97b5e3d96d28c76e3608b9e728051600",
     "AI Ideation Runs": "76c55b956dff441fcb6be6ada3b6d719",
@@ -117,7 +118,7 @@
     "Legal Investigative": "1ed63a801f8996275b625fd910889d96",
     "License Populator": "fcf20414f2c6e6a22d4f0ca60aa0915b",
     "Linux Av Manager": "f1b250ea246ad24cff397c37198e2c12",
-    "Linux Debugging": "fe7fb8761458afdf87aca4facf8f6b3b",
+    "Linux Debugging": "eecdb680bf94e19eb851dae6c0912bab",
     "Linux Desktop ClaudeMD Seeder": "d0b2d817c531d668efa1e6d8b9fa51ae",
     "Linux Packaging": "6a910e169b5d9989a06859dfa5f6ce3e",
     "Linux System Optimisation": "753434f9e8d8c961837da1edea87f9e8",
@@ -185,24 +186,6 @@
     "Zigbee Home Maintenance": "ba03f10b0b08bea540fa518f15073dc5"
   },
   "history": [
-    {
-      "date": "2026-04-28T15:06:25",
-      "changes": [
-        {
-          "type": "added",
-          "repos": [
-            "Declutter Genie"
-          ]
-        },
-        {
-          "type": "modified",
-          "repos": [
-            "Repo Mgmt"
-          ]
-        }
-      ],
-      "total_repos": 132
-    },
     {
       "date": "2026-04-28T15:19:52",
       "changes": [
@@ -1533,6 +1516,24 @@
         }
       ],
       "total_repos": 180
+    },
+    {
+      "date": "2026-05-03T21:31:41",
+      "changes": [
+        {
+          "type": "added",
+          "repos": [
+            "Agent Relay"
+          ]
+        },
+        {
+          "type": "modified",
+          "repos": [
+            "Linux Debugging"
+          ]
+        }
+      ],
+      "total_repos": 181
     }
   ]
 }

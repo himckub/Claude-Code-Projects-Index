@@ -707,6 +707,15 @@ Claude Code plugin: filesystem organisation workflow — scan, dedupe, cleanup, 
 
 ---
 
+## MCP & Infrastructure
+
+### Agent Relay
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Agent-Relay-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Direct agent-to-agent communication and coordination within a LAN. Two Claude instances on different machines exchange messages and files via a shared MCP relay server. Includes the relay server (Python/FastMCP, SQLite, content-addressed blob storage) and skills to deploy and connect clients. Trust-based, LAN-scoped.
+
+---
+
 ## Adb
 
 ### Adb Ops

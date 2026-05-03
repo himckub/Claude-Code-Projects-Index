@@ -29,6 +29,21 @@
     "created_date": "2026-05-03"
   },
   {
+    "name": "Agent Relay",
+    "url": "https://github.com/danielrosehill/Claude-Agent-Relay-Plugin",
+    "description": "Direct agent-to-agent communication and coordination within a LAN. Two Claude instances on different machines exchange messages and files via a shared MCP relay server. Includes the relay server (Python/FastMCP, SQLite, content-addressed blob storage) and skills to deploy and connect clients. Trust-based, LAN-scoped.",
+    "tags": [
+      "Plugin",
+      "Tool"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-05-03",
+    "slug": "agent-relay",
+    "created_date": "2026-05-03"
+  },
+  {
     "name": "AI Attribution",
     "url": "https://github.com/danielrosehill/Claude-AI-Attribution-Plugin",
     "description": "Claude Code plugin: AI transparency workflow \u2014 document human vs AI contributions, add attribution, audit provenance.",
@@ -1714,9 +1729,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-05-03",
     "slug": "linux-debugging",
-    "created_date": "2026-04-28"
+    "created_date": "2026-05-03"
   },
   {
     "name": "Linux Desktop ClaudeMD Seeder",
