@@ -585,6 +585,13 @@ Operational commands and a skill for working with the Green Invoice MCP server �
 
 ## Hardware
 
+### Hardware Id Annotation
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Hardware-ID-Annotation-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Identify and annotate hardware components from photos — circuit boards, motherboards, ICs — with overlays, datasheet cross-checks, and structured BOMs.
+
+---
+
 ### Hardware Spec Assembly
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Hardware-Spec-Assembly-Plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
