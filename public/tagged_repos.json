@@ -9,9 +9,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "adb-ops",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Agent Junction",
@@ -24,9 +24,9 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "agent-junction",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Agent Relay",
@@ -54,9 +54,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-attribution",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "AI Engineering",
@@ -69,9 +69,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-engineering",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "AI Ideation Runs",
@@ -83,9 +83,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-ideation-runs",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "AI Memory Planning 0426",
@@ -97,9 +97,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-memory-planning-0426",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "AI Model Research",
@@ -130,9 +130,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-video-producer",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "AI-Human Attribution Adder",
@@ -145,7 +145,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ai-human-attribution-adder",
     "created_date": "2025-10-31"
   },
@@ -175,9 +175,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "audio-production",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Background Removal",
@@ -204,9 +204,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "backup-planner",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Bash Alias Manager Claude",
@@ -219,7 +219,7 @@
     "category": "Systems Administration",
     "category_slug": "sysadmin",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "bash-alias-manager-claude",
     "created_date": "2025-10-25"
   },
@@ -235,7 +235,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "batch-claudemd-repo-creator",
     "created_date": "2025-10-26"
   },
@@ -264,9 +264,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "browser-data-capture",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Budgeting",
@@ -279,9 +279,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "budgeting",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Business Idea Eval",
@@ -294,9 +294,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-04-28",
+    "added_date": "2026-05-13",
     "slug": "business-idea-eval",
-    "created_date": "2026-04-28"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Buttondown Mgmt",
@@ -323,9 +323,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "career",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Agent Blueprints",
@@ -338,9 +338,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-agent-blueprints",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Agent Picker Pattern",
@@ -352,7 +352,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-agent-picker-pattern",
     "created_date": "2025-10-31"
   },
@@ -368,9 +368,9 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-agent-workspace-generator",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude App Optimiser",
@@ -382,7 +382,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-app-optimiser",
     "created_date": "2025-12-23"
   },
@@ -396,9 +396,9 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-calls-the-shots",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Change My View",
@@ -412,7 +412,7 @@
     "category": "Argument and Perspective Exploration",
     "category_slug": "argument",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-change-my-view",
     "created_date": "2025-11-13"
   },
@@ -426,7 +426,7 @@
     "category": "Systems Administration",
     "category_slug": "sysadmin",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-bash-aliases",
     "created_date": "2025-11-09"
   },
@@ -440,9 +440,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-bugs-and-frs",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Code Context Feature Requests",
@@ -455,7 +455,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-context-feature-requests",
     "created_date": "2025-10-09"
   },
@@ -470,7 +470,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-context-toolkit",
     "created_date": "2025-10-27"
   },
@@ -486,9 +486,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-feedback",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Code Linux Desktop Slash Commands",
@@ -500,7 +500,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-linux-desktop-slash-commands",
     "created_date": "2025-10-21"
   },
@@ -516,7 +516,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-linux-notes",
     "created_date": "2025-10-22"
   },
@@ -531,7 +531,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-marketplace-hub",
     "created_date": "2025-11-09"
   },
@@ -546,7 +546,7 @@
     "category": "MCP",
     "category_slug": "mcp",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-mcp-command-generator",
     "created_date": "2025-10-16"
   },
@@ -560,7 +560,7 @@
     "category": "MCP",
     "category_slug": "mcp",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-mcp-list",
     "created_date": "2025-10-28"
   },
@@ -577,7 +577,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-plugin-meta",
     "created_date": "2025-11-15"
   },
@@ -592,7 +592,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-plugins-marketplace",
     "created_date": "2025-11-09"
   },
@@ -607,7 +607,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-code-repo-managers-claudemd",
     "created_date": "2025-10-25"
   },
@@ -621,9 +621,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-data-analyst",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Data Wrangler",
@@ -636,9 +636,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-data-wrangler",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Deep Research Model (Notes / Documentation)",
@@ -651,7 +651,7 @@
     "category": "Research",
     "category_slug": "research",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-deep-research-model-notes-documentation",
     "created_date": "2025-10-29"
   },
@@ -667,9 +667,24 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-development-agents",
     "created_date": "2025-12-29"
+  },
+  {
+    "name": "Claude Document Nudge",
+    "url": "https://github.com/danielrosehill/Claude-Document-Nudge",
+    "description": "Nudges Claude to document decisions, todos, sprints, and handovers into a structured planning/ tree by default \u2014 without being asked each turn. Ships a home-level CLAUDE.md snippet plus /nudge-install and /nudge-scaffold slash commands.",
+    "tags": [
+      "Plugin",
+      "Slash Commands"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-05-13",
+    "slug": "claude-document-nudge",
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Dolphin & Konsole Actions",
@@ -682,9 +697,9 @@
     "category": "Systems Administration",
     "category_slug": "sysadmin",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-dolphin-konsole-actions",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Dork",
@@ -696,7 +711,7 @@
     "category": "Research",
     "category_slug": "research",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-dork",
     "created_date": "2026-03-05"
   },
@@ -710,7 +725,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-file-organiser-super-slash",
     "created_date": "2025-10-29"
   },
@@ -741,7 +756,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-interview",
     "created_date": "2025-12-06"
   },
@@ -757,7 +772,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-is-awesome",
     "created_date": "2025-10-28"
   },
@@ -772,7 +787,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-local-ai-agent-research",
     "created_date": "2025-11-27"
   },
@@ -786,9 +801,9 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-md-chunk",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude MD Tester",
@@ -815,7 +830,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-model-identifier",
     "created_date": "2025-12-21"
   },
@@ -858,7 +873,7 @@
     "category": "Systems Administration",
     "category_slug": "sysadmin",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-rescue",
     "created_date": "2025-11-14"
   },
@@ -873,9 +888,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-rudder",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Slash Commands",
@@ -888,7 +903,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-slash-commands",
     "created_date": "2025-10-11"
   },
@@ -903,7 +918,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-sub-agent-network",
     "created_date": "2025-09-09"
   },
@@ -919,7 +934,7 @@
     "category": "Systems Administration",
     "category_slug": "sysadmin",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-system-recovery-mode",
     "created_date": "2025-12-27"
   },
@@ -934,7 +949,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-task-manager",
     "created_date": "2025-12-28"
   },
@@ -950,9 +965,24 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-transcription",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
+  },
+  {
+    "name": "Claude User Context Pattern",
+    "url": "https://github.com/danielrosehill/Claude-User-Context-Pattern",
+    "description": "Depersonalised reference pattern for organising user-level `~/.claude/` context: a lean top-level `CLAUDE.md` that routes to topical `context/*.md` files (system environment, git rules, MCP usage, file organisation, etc.) loaded only when relevant.",
+    "tags": [
+      "Configuration",
+      "Documentation"
+    ],
+    "category": "Context and Personalization",
+    "category_slug": "context",
+    "category_group": "Research & Ideas",
+    "added_date": "2026-05-13",
+    "slug": "claude-user-context-pattern",
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude User Manual",
@@ -965,7 +995,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-user-manual",
     "created_date": "2025-12-31"
   },
@@ -980,9 +1010,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-user-memory",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Claude Vault",
@@ -1010,7 +1040,7 @@
     "category": "Communications & Writing",
     "category_slug": "communications",
     "category_group": "Non-Code",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-website-update-sender",
     "created_date": "2025-11-13"
   },
@@ -1027,7 +1057,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "claude-workspace-setup-helper",
     "created_date": "2025-12-07"
   },
@@ -1044,9 +1074,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "content-writing",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "CONTEXT.md",
@@ -1059,7 +1089,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "context-md",
     "created_date": "2025-10-27"
   },
@@ -1074,7 +1104,7 @@
     "category": "Multi-Agent Tooling",
     "category_slug": "multi-agent",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "cool-claude-code-stuff",
     "created_date": "2025-10-02"
   },
@@ -1105,9 +1135,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "daniel-rosehill",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Data Annotation",
@@ -1119,9 +1149,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "data-annotation",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Data Visualisation And Publishing",
@@ -1133,9 +1163,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "data-visualisation-and-publishing",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Debugging",
@@ -1149,9 +1179,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "debugging",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Decision Evaluation Framework",
@@ -1163,9 +1193,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "decision-evaluation-framework",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Declaude",
@@ -1179,7 +1209,7 @@
     "category": "Communications & Writing",
     "category_slug": "communications",
     "category_group": "Non-Code",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "declaude",
     "created_date": "2025-12-15"
   },
@@ -1193,9 +1223,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "declutter-genie",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Desktop Manager",
@@ -1209,9 +1239,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "desktop-manager",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Dev Debugger",
@@ -1240,9 +1270,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "dev-tools",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Digital Evidence",
@@ -1269,9 +1299,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "digital-printing",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Document To Markdown",
@@ -1304,6 +1334,21 @@
     "created_date": "2026-04-30"
   },
   {
+    "name": "Easy Effects Manager",
+    "url": "https://github.com/danielrosehill/Easy-Effects-Manager",
+    "description": "Manage Easy Effects on Linux: maintain a preset library, install/export presets, bind autoload to specific mics, test input levels, and set up clean voice-dictation chains. Works with Flatpak or native installs.",
+    "tags": [
+      "Agent Workspace",
+      "Plugin"
+    ],
+    "category": "Plugins",
+    "category_slug": "plugins",
+    "category_group": "Technical",
+    "added_date": "2026-05-13",
+    "slug": "easy-effects-manager",
+    "created_date": "2026-05-13"
+  },
+  {
     "name": "Favorite Plugins Installers",
     "url": "https://github.com/danielrosehill/Claude-Favorite-Plugins-Installers-Plugin",
     "description": "Curated batches of third-party Claude Code plugins, grouped by type/theme, installable in one command.",
@@ -1328,9 +1373,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "filesystem-organiser",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Geopol Sim",
@@ -1342,9 +1387,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "geopol-sim",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Get Toony",
@@ -1399,9 +1444,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "github-explorer",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Gpg Ops",
@@ -1429,9 +1474,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "greeninvoice-ops",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Hardware Id Annotation",
@@ -1474,9 +1519,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "home-assistant-mgmt",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "How-To-MCP",
@@ -1490,9 +1535,9 @@
     "category": "MCP",
     "category_slug": "mcp",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "how-to-mcp",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "HP5200 Printer",
@@ -1504,9 +1549,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "hp5200-printer",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Html Email Designer",
@@ -1519,9 +1564,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "html-email-designer",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Ideation Planning",
@@ -1534,9 +1579,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "ideation-planning",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Image Annotation",
@@ -1548,9 +1593,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "image-annotation",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Image Production",
@@ -1562,9 +1607,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "image-production",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Israel Agent Skills",
@@ -1577,9 +1622,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "israel-agent-skills",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Israel Shopping",
@@ -1593,9 +1638,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "israel-shopping",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Jewish Texts Reference",
@@ -1609,9 +1654,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "jewish-texts-reference",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Jewish Utilities",
@@ -1625,9 +1670,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "jewish-utilities",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Kde Plasma",
@@ -1653,9 +1698,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "kde-plasmoid-dev",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Keyboard Scanner",
@@ -1683,9 +1728,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "knowledge-documentation",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Legal Investigative",
@@ -1699,9 +1744,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "legal-investigative",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "License Populator",
@@ -1743,9 +1788,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "linux-debugging",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Linux Desktop ClaudeMD Seeder",
@@ -1758,7 +1803,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "linux-desktop-claudemd-seeder",
     "created_date": "2025-10-25"
   },
@@ -1773,9 +1818,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "linux-packaging",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Linux System Optimisation",
@@ -1801,9 +1846,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "llm-council-creator",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Local Claude Plugin Install Research",
@@ -1817,9 +1862,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "local-claude-plugin-install-research",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Local Web Capture",
@@ -1831,9 +1876,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "local-web-capture",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Loose Tasks",
@@ -1860,7 +1905,7 @@
     "category": "MCP",
     "category_slug": "mcp",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "mcpm-claude-code-docs",
     "created_date": "2025-12-09"
   },
@@ -1874,9 +1919,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "media-assistant-ops",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Media Library",
@@ -1889,9 +1934,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "media-library",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Nano Tech Diagrams",
@@ -1934,7 +1979,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "new-turn-claude-hook",
     "created_date": "2025-12-31"
   },
@@ -1962,7 +2007,7 @@
     "category": "Slash Commands",
     "category_slug": "slash-commands",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "no-wheel-inventions",
     "created_date": "2025-12-27"
   },
@@ -1977,7 +2022,7 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "non-code-claude-code",
     "created_date": "2025-10-03"
   },
@@ -2022,9 +2067,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "opnsense-mgmt",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Os Sync Agent",
@@ -2051,9 +2096,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "personal-planning",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Pii Scanner",
@@ -2080,9 +2125,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "pr-media-work",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Private And Public Claude MD",
@@ -2094,7 +2139,7 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "private-and-public-claude-md",
     "created_date": "2025-10-22"
   },
@@ -2109,9 +2154,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "programmatic-doc-generation",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Proxmox Mgmt",
@@ -2126,9 +2171,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "proxmox-mgmt",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Purchasing",
@@ -2141,9 +2186,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "purchasing",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Repo Mgmt",
@@ -2157,9 +2202,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "repo-mgmt",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Repo To Content",
@@ -2171,9 +2216,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "repo-to-content",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Report Analyst",
@@ -2202,9 +2247,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "research-space",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Resource List Builder",
@@ -2216,9 +2261,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "resource-list-builder",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Resume Typesetter",
@@ -2230,9 +2275,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "resume-typesetter",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Schedule Manager",
@@ -2245,9 +2290,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "schedule-manager",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Security Auditor",
@@ -2274,9 +2319,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "security-checkup",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Shopping",
@@ -2289,9 +2334,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "shopping",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Skill Creation Research",
@@ -2304,9 +2349,9 @@
     "category": "Miscellaneous",
     "category_slug": "misc",
     "category_group": "Other",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "skill-creation-research",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Smart Home",
@@ -2319,9 +2364,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "smart-home",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Smithery Claude Code MCP Jumpstarter",
@@ -2333,7 +2378,7 @@
     "category": "MCP",
     "category_slug": "mcp",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "smithery-claude-code-mcp-jumpstarter",
     "created_date": "2025-10-11"
   },
@@ -2361,9 +2406,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "social-feedback",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Sop Writer",
@@ -2435,9 +2480,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "synology-mgmt",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Synthetic Data",
@@ -2464,9 +2509,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "sysadmin-homelab",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "System Recovery Mode",
@@ -2494,9 +2539,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "task-queuer",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Taxonomy Creation",
@@ -2523,9 +2568,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "teach-this-repo",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Technical Docs",
@@ -2539,9 +2584,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "technical-docs",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Test Project Ideator",
@@ -2553,9 +2598,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "test-project-ideator",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Text Corpus Analysis",
@@ -2567,9 +2612,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "text-corpus-analysis",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Text To Speech Toolkit",
@@ -2597,9 +2642,9 @@
     "category": "Context and Personalization",
     "category_slug": "context",
     "category_group": "Research & Ideas",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "the-user-voice-types",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Therapy Tracking",
@@ -2627,9 +2672,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "user-claude-md",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Userscript Development",
@@ -2688,9 +2733,9 @@
     "category": "Plugins",
     "category_slug": "plugins",
     "category_group": "Technical",
-    "added_date": "2026-05-04",
+    "added_date": "2026-05-13",
     "slug": "workspace-foundational",
-    "created_date": "2026-05-04"
+    "created_date": "2026-05-13"
   },
   {
     "name": "Zigbee Home Maintenance",

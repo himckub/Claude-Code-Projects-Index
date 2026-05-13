@@ -3,7 +3,7 @@
     "title": "Claude Code Repos Index",
     "description": "Curated index of Claude Code-related resources and projects",
     "master_index_url": "https://github.com/danielrosehill/Github-Master-Index",
-    "generated_date": "2026-05-04"
+    "generated_date": "2026-05-13"
   },
   "categories": [
     {
@@ -86,6 +86,11 @@
           "name": "Claude Model Identifier",
           "url": "https://github.com/danielrosehill/Claude-Model-Identifier",
           "description": "Prompt template for verifying the correct Claude model variant at conversation start."
+        },
+        {
+          "name": "Claude User Context Pattern",
+          "url": "https://github.com/danielrosehill/Claude-User-Context-Pattern",
+          "description": "Depersonalised reference pattern for organising user-level `~/.claude/` context: a lean top-level `CLAUDE.md` that routes to topical `context/*.md` files (system environment, git rules, MCP usage, file organisation, etc.) loaded only when relevant."
         },
         {
           "name": "CONTEXT.md",
@@ -240,11 +245,11 @@
   ],
   "statistics": {
     "total_categories": 6,
-    "total_repositories": 39,
+    "total_repositories": 40,
     "repositories_by_category": {
       "Systems Administration": 8,
       "Argument and Perspective Exploration": 1,
-      "Context and Personalization": 8,
+      "Context and Personalization": 9,
       "Multi-Agent Tooling": 9,
       "MCP": 5,
       "Slash Commands": 8

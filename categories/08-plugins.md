@@ -708,6 +708,13 @@ Recommend, generate, and populate software/content licenses. Reads from a user-m
 
 ## Linux
 
+### Easy Effects Manager
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Easy-Effects-Manager) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Manage Easy Effects on Linux: maintain a preset library, install/export presets, bind autoload to specific mics, test input levels, and set up clean voice-dictation chains. Works with Flatpak or native installs.
+
+---
+
 ### Keyboard Scanner
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Keyboard-Scanner) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
@@ -844,6 +851,15 @@ Convert PDFs to clean Markdown, chunk into logical sections (chapters, indexes, 
 [![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Pipewire-Skills-plugin) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
 
 Claude Code skills for taming Pipewire/Wireplumber audio on Linux — manage default devices, persistent device-priority rules, per-app routing, mic level checks, and EasyEffects bindings.
+
+---
+
+## Planning
+
+### Claude Document Nudge
+[![View Repo](https://img.shields.io/badge/View%20Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Document-Nudge) ![Plugin](https://img.shields.io/badge/Plugin-purple?style=flat-square)
+
+Nudges Claude to document decisions, todos, sprints, and handovers into a structured planning/ tree by default — without being asked each turn. Ships a home-level CLAUDE.md snippet plus /nudge-install and /nudge-scaffold slash commands.
 
 ---
 
